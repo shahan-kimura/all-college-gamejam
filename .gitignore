@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vs/
+.vscode/
+node_modules/
+*.log
+*.tmp
+*.bak
+.private/
+*.zip
