@@ -1,66 +1,100 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#080b12">
-  <meta name="description" content="ALL COLLEGE GAME JAM 2025–2026 全国合同制作作品アーカイブ。">
-  <title>ALL COLLEGE GAME JAM — WORKS ARCHIVE</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@400;500;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ALL COLLEGE GAME JAM 2025–2026 作品アーカイブ。">
+  <title>ALL COLLEGE GAME JAM 2025–2026 — SHOWCASE</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <a class="skip-link" href="#works">作品一覧へ</a>
-  <header class="site-header">
-    <a class="brand" href="index.html" aria-label="All College Game Jam ホーム">
-      <span class="brand-mark" aria-hidden="true">AC</span>
-      <span>ALL COLLEGE<br><b>GAME JAM</b></span>
-    </a>
-    <div class="header-meta"><span>STUDENT GAME ARCHIVE</span><span class="status-dot">ONLINE</span></div>
-  </header>
+  <!-- Video Background -->
+  <div class="video-bg-container">
+    <video class="video-bg" id="bgVideo" autoplay muted loop playsinline></video>
+  </div>
+  <div class="vignette-overlay"></div>
 
-  <main>
-    <section class="hero" aria-labelledby="page-title">
-      <div class="hero-copy">
-        <p class="eyebrow"><span class="eyebrow-line"></span>全国ゲームカレッジ合同制作</p>
-        <h1 id="page-title">PLAY<br><span>THE</span> NEXT<br><em>IDEA.</em></h1>
-        <p class="hero-description">全国の学生チームがつくったゲームと企画を、<br class="desktop-break">年度を越えてたどる作品アーカイブ。</p>
-        <a class="hero-link" href="#works">作品を探す <span aria-hidden="true">↓</span></a>
-      </div>
-      <div class="hero-art" aria-hidden="true">
-        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
-        <div class="orb-core"><span>GAME<br>JAM</span><b>+</b></div>
-        <span class="art-label art-label-top">IDEAS IN MOTION</span>
-        <span class="art-label art-label-bottom">ALL CAMPUSES / ALL YEARS</span>
-        <span class="crosshair crosshair-one">+</span><span class="crosshair crosshair-two">+</span>
-      </div>
-      <div class="hero-index">ARCHIVE<br>2025 — 2026</div>
+  <!-- Mouse Reveal Layer -->
+  <div class="mouse-reveal-layer">
+    <video class="mouse-reveal-video" id="revealVideo" autoplay muted loop playsinline></video>
+  </div>
+
+  <!-- FUI HUD Overlay -->
+  <div class="fui-overlay" id="fuiOverlay">
+    <div class="fui-corner top-left">
+      SEC://ALL_COLLEGE_2025<br>
+      STATUS: <span id="fuiStatus">ACTIVE</span><br>
+      COORD: <span id="fuiCoord">X:0000 Y:0000</span>
+    </div>
+    <div class="fui-corner top-right">
+      FPS: <span id="fuiFps">60</span><br>
+      FRAME: <span id="fuiFrame">000000</span><br>
+      MODE: ALL_CAMPUSES_HUB
+    </div>
+    <div class="fui-corner bottom-left">
+      PROJECT: ALL COLLEGE GAME JAM 2025–2026<br>
+      ENTRIES: <span id="entryCount">69 ACTIVE</span><br>
+      CAMPUSES: <span id="campusCount">14 CAMPUSES</span>
+    </div>
+    <div class="fui-corner bottom-right">
+      IDLE: <span id="fuiIdle">00s</span>/30s<br>
+      <span id="fuiTime"></span>
+    </div>
+  </div>
+
+  <!-- Auto-switch progress bar -->
+  <div class="auto-switch-bar"></div>
+
+  <!-- Glitch Transition -->
+  <div class="glitch-overlay" id="glitchOverlay"></div>
+
+  <!-- Navigation Bar -->
+  <nav class="nav-bar">
+    <div class="nav-left-group">
+      <a href="index.html" class="nav-home-btn">★ ALL COLLEGE JAM</a>
+      <button class="drawer-trigger-btn" id="drawerTrigger">☰ 校舎別作品リスト (69作品)</button>
+    </div>
+  </nav>
+
+
+  <!-- Sidebar Drawer Backdrop & Aside -->
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+  <aside class="campus-sidebar" id="campusSidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">CAMPUS DIRECTORY</span>
+      <button class="sidebar-close-btn" id="drawerClose">[✕ 閉じる]</button>
+    </div>
+    <div class="sidebar-content">
+      <div id="sidebarContent"></div>
+    </div>
+  </aside>
+
+
+  <!-- Page Content -->
+  <div class="page-container page-enter">
+    <section class="hero-section">
+      <!-- Title -->
+      <h1 class="site-title" id="siteTitle" data-text="ALL COLLEGE GAME JAM 2025–2026">ALL COLLEGE GAME JAM 2025–2026</h1>
+      <p class="site-subtitle" id="siteSubtitle">全国校舎 ゲームカレッジ合同チーム制作成果発表展 // 全作品</p>
+
+
+      <!-- Campus Filter Bar -->
+      <div class="filter-container" id="yearFilters" role="group" aria-label="年度で絞り込む"></div>
+      <div class="filter-container" id="campusFilters" role="group" aria-label="校舎で絞り込む"></div>
+
+
+      <!-- Team Grid -->
+      <div class="team-grid" id="teamGrid"></div>
+      <p id="emptyWorks" hidden>NO ENTRIES</p>
     </section>
+  </div>
 
-    <section class="works-section" id="works" aria-labelledby="works-title">
-      <div class="section-heading">
-        <div><p class="eyebrow"><span class="eyebrow-line"></span>THE COLLECTION</p><h2 id="works-title">作品一覧 <span>WORKS</span></h2></div>
-        <p class="section-note">年度と校舎を選んで作品を絞り込めます。<br>作品カードから企画資料やプレイ情報を確認できます。</p>
-      </div>
-      <div class="filter-panel" id="filters" role="search">
-        <div class="filter-group"><span class="filter-label">YEAR / 年度</span><div class="filter-options year-options" id="yearFilters" role="group" aria-label="年度で絞り込む"></div></div>
-        <div class="filter-group"><span class="filter-label">CAMPUS / 校舎</span><div class="filter-options campus-options" id="campusFilters" role="group" aria-label="校舎で絞り込む"></div></div>
-        <label class="filter-field search-field"><span>SEARCH / キーワード</span><input id="searchInput" type="search" placeholder="作品名・ジャンル・内容" autocomplete="off"></label>
-        <div class="result-count" aria-live="polite"><strong id="resultCount">—</strong><span>WORKS</span></div>
-      </div>
-      <div class="works-grid" id="worksGrid" aria-live="polite"></div>
-      <p class="empty-state" id="emptyState" hidden>条件に合う作品はありません。年度や校舎を変更してください。</p>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <a href="https://shahan-kimura.github.io/all-college-gamejam-2025/" target="_blank" rel="noopener">2025 ARCHIVE ↗</a>
-    <span>ALL COLLEGE GAME JAM · STUDENT WORKS ARCHIVE</span>
-    <span class="footer-year">2025–2026</span>
+  <footer class="showcase-footer">
+    <p>© 2025-2026 HUMAN ACADEMY GAME COLLEGE — ALL COLLEGE GAME JAM</p>
   </footer>
+
   <script src="data/catalog.js"></script>
-  <script src="app.js"></script>
+  <script src="script.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', () => GCKPortfolio.init({ pageType: 'index' }));</script>
 </body>
 </html>

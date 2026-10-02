@@ -1,28 +1,123 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#080b12">
-  <meta name="description" content="ALL COLLEGE GAME JAM 作品詳細。">
-  <title>作品詳細 — ALL COLLEGE GAME JAM</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@400;500;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>作品詳細 | ALL COLLEGE GAME JAM</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body class="detail-page">
-  <a class="skip-link" href="#detail">作品詳細へ</a>
-  <header class="site-header">
-    <a class="brand" href="index.html" aria-label="All College Game Jam ホーム"><span class="brand-mark" aria-hidden="true">AC</span><span>ALL COLLEGE<br><b>GAME JAM</b></span></a>
-    <div class="header-meta"><span>STUDENT GAME ARCHIVE</span><a href="index.html">← 作品一覧</a></div>
-  </header>
-  <main id="detail" class="detail-main">
-    <nav class="breadcrumb" aria-label="パンくずリスト"><a href="index.html">作品一覧</a><span aria-hidden="true">/</span><span id="breadcrumbCurrent">作品詳細</span></nav>
-    <div id="detailContent"></div>
-  </main>
-  <footer class="site-footer"><a href="https://shahan-kimura.github.io/all-college-gamejam-2025/" target="_blank" rel="noopener">2025 ARCHIVE ↗</a><span>ALL COLLEGE GAME JAM · STUDENT WORKS ARCHIVE</span><span class="footer-year">2025–2026</span></footer>
+<body>
+  <!-- Full Screen Background Video -->
+  <div class="video-bg-container">
+    <video class="video-bg" id="bgVideo" autoplay muted loop playsinline></video>
+  </div>
+  <div class="vignette-overlay"></div>
+  <div class="mouse-reveal-layer">
+    <video class="mouse-reveal-video" id="revealVideo" autoplay muted loop playsinline></video>
+  </div>
+
+  <!-- FUI Overlay -->
+  <div class="fui-overlay" id="fuiOverlay">
+    <div class="fui-corner top-left">SYS://COLLEGE_2025<br>STATUS: <span id="fuiStatus">ACTIVE</span><br>COORD: <span id="fuiCoord">X:0000 Y:0000</span></div>
+    <div class="fui-corner top-right">FPS: <span id="fuiFps">60</span><br>FRAME: <span id="fuiFrame">000000</span><br>MODE: ENTRY_VIEW</div>
+    <div class="fui-corner bottom-left">CAMPUS: <span id="fuiCampus">—</span><br>TITLE: <span id="fuiTeam">—</span><br>STREAM: <span id="fuiStream" style="color:var(--color-secondary)">LIVE_FOOTAGE</span></div>
+    <div class="fui-corner bottom-right">IDLE: <span id="fuiIdle">00s</span>/30s<br><span id="fuiTime"></span></div>
+  </div>
+
+  <!-- Glitch -->
+  <div class="glitch-overlay" id="glitchOverlay"></div>
+
+  <!-- Auto-switch bar -->
+  <div class="auto-switch-bar"></div>
+
+  <!-- Nav Bar with Drawer Trigger -->
+  <nav class="nav-bar">
+    <div class="nav-left-group">
+      <a href="index.html" class="nav-home-btn">← ALL ENTRIES</a>
+      <button class="drawer-trigger-btn" id="drawerTrigger">☰ 校舎別作品リスト (69作品)</button>
+    </div>
+  </nav>
+
+
+  <!-- Sidebar Drawer Backdrop & Aside -->
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+  <aside class="campus-sidebar" id="campusSidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">CAMPUS DIRECTORY</span>
+      <button class="sidebar-close-btn" id="drawerClose">[✕ 閉じる]</button>
+    </div>
+    <div class="sidebar-content">
+      <div id="sidebarContent"></div>
+    </div>
+  </aside>
+
+
+  <!-- Page Content -->
+  <div class="page-container page-enter">
+    <section class="team-header">
+      <div class="team-num-display" id="teamNumber">01</div>
+
+      <div class="team-campus-tag" id="campusTag">秋葉原校</div>
+      <h1 class="team-name" id="teamName">花火ニワトリ</h1>
+      <h2 class="team-work-title" id="workTitle">爽快爆発アクション</h2>
+      <p class="team-concept" id="teamConcept">花火の力でニワトリが大爆発＆大飛翔！タイミングよく花火を打ち上げハイスコアを目指す！</p>
+
+      <div class="action-buttons">
+        <button class="action-btn" id="documentOpenBtn" onclick="openModal('proposal')">VIEW PROFILE (PDF)</button>
+        <button class="action-btn secondary" id="watchVideoBtn" onclick="openModal('video')">WATCH FULL PV</button>
+        <a class="action-btn download" id="downloadBtn" href="https://drive.google.com/file/d/1fEkK0uSw0HiPzIgHtO37KKaqltgOM9Ul/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD GAME IN DRIVE</a>
+      </div>
+
+      <div class="prev-next-nav">
+        <a href="index.html" class="prev-next-btn" id="prevTeamBtn">← PREV</a>
+        <a href="index.html" class="prev-next-btn" id="nextTeamBtn">NEXT →</a>
+      </div>
+    </section>
+  </div>
+
+  <!-- Proposal Modal (Clean View, Hybrid PDF & Offline Slides) -->
+  <div class="modal-overlay" id="proposalModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span id="docModalTitle">PROFILE — DOCUMENTS</span>
+        <div class="modal-header-actions">
+          <div class="modal-header-actions" id="documentTabs" aria-label="資料を選択"></div>
+          <button class="modal-tab-btn active" id="tabPdf" onclick="setProposalViewMode('pdf')">PDF</button>
+          <button class="modal-tab-btn" id="tabSlides" onclick="setProposalViewMode('slides')">SLIDES</button>
+          <button class="modal-close" onclick="closeModal()">[ CLOSE ]</button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <iframe id="proposalIframe"  width="100%" height="100%" style="border:none;"></iframe>
+        <div class="slide-viewer-box" id="proposalSlidesViewer" style="display:none;">
+          <div class="slide-img-wrap">
+            <img id="slideImage"  alt="Profile Slide">
+          </div>
+          <div class="slide-controls">
+            <button class="slide-btn" onclick="changeSlide(-1)">◀ PREV</button>
+            <span id="slideCounter">PAGE 1 / 1</span>
+            <button class="slide-btn" onclick="changeSlide(1)">NEXT ▶</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Video Modal (Clean View) -->
+  <div class="modal-overlay" id="videoModal">
+    <div class="modal-content" style="background:#000;">
+      <div class="modal-header">
+        <span id="videoModalTitle">PV / DEMO</span>
+        <button class="modal-close" onclick="closeModal()">[ CLOSE ]</button>
+      </div>
+      <div class="modal-body">
+        <video id="teamVideo" preload="none" controls style="width:100%;height:100%;background:#000;"></video>
+      </div>
+    </div>
+  </div>
+
   <script src="data/catalog.js"></script>
-  <script src="team.js"></script>
+  <script src="script.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', () => GCKPortfolio.init({ pageType: 'team' }));</script>
 </body>
 </html>

@@ -1018,7 +1018,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-sapporo-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/interim/2026-sapporo-01/slide-001.png",
     "documents": [
       {
@@ -1032,6 +1032,34 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-sapporo-01/slide-004.png",
           "assets/2026/interim/2026-sapporo-01/slide-005.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-sapporo-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-sapporo-01/slide-001.png",
+          "assets/2026/planning/2026-sapporo-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-sapporo-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-sapporo-01/slide-001.png",
+          "assets/2026/final/2026-sapporo-01/slide-002.png",
+          "assets/2026/final/2026-sapporo-01/slide-003.png",
+          "assets/2026/final/2026-sapporo-01/slide-004.png",
+          "assets/2026/final/2026-sapporo-01/slide-005.png",
+          "assets/2026/final/2026-sapporo-01/slide-006.png",
+          "assets/2026/final/2026-sapporo-01/slide-007.png",
+          "assets/2026/final/2026-sapporo-01/slide-008.png",
+          "assets/2026/final/2026-sapporo-01/slide-009.png",
+          "assets/2026/final/2026-sapporo-01/slide-010.png",
+          "assets/2026/final/2026-sapporo-01/slide-011.png",
+          "assets/2026/final/2026-sapporo-01/slide-012.png"
+        ]
       }
     ]
   },
@@ -1042,14 +1070,24 @@ window.GAMEJAM_CATALOG = [
     "title": "ZERO・RECONFIGURE（仮）",
     "genre": null,
     "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
+    "download": "https://drive.google.com/file/d/1VK7eN-xiXMptDDvzHQzyMKYik9OJGRpJ/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-sapporo-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "Unity画面全体を含む録画です。",
     "thumbnail": "assets/2026/interim/2026-sapporo-02/slide-001.png",
-    "submissionStatus": "成果物未確認",
     "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-sapporo-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-sapporo-02/proposal/slide-001.png"
+        ]
+      },
       {
         "kind": "interim",
         "label": "中間報告",
@@ -1064,6 +1102,32 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-sapporo-02/slide-007.png",
           "assets/2026/interim/2026-sapporo-02/slide-008.png",
           "assets/2026/interim/2026-sapporo-02/slide-009.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-sapporo-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-sapporo-02/slide-001.png",
+          "assets/2026/planning/2026-sapporo-02/slide-002.png",
+          "assets/2026/planning/2026-sapporo-02/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-sapporo-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-sapporo-02/slide-001.png",
+          "assets/2026/final/2026-sapporo-02/slide-002.png",
+          "assets/2026/final/2026-sapporo-02/slide-003.png",
+          "assets/2026/final/2026-sapporo-02/slide-004.png",
+          "assets/2026/final/2026-sapporo-02/slide-005.png",
+          "assets/2026/final/2026-sapporo-02/slide-006.png",
+          "assets/2026/final/2026-sapporo-02/slide-007.png",
+          "assets/2026/final/2026-sapporo-02/slide-008.png",
+          "assets/2026/final/2026-sapporo-02/slide-009.png"
         ]
       }
     ]
@@ -1097,6 +1161,34 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-omiya-01/slide-008.png",
           "assets/2026/interim/2026-omiya-01/slide-009.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-omiya-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-omiya-01/slide-001.png",
+          "assets/2026/planning/2026-omiya-01/slide-002.png",
+          "assets/2026/planning/2026-omiya-01/slide-003.png",
+          "assets/2026/planning/2026-omiya-01/slide-004.png",
+          "assets/2026/planning/2026-omiya-01/slide-005.png",
+          "assets/2026/planning/2026-omiya-01/slide-006.png",
+          "assets/2026/planning/2026-omiya-01/slide-007.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-omiya-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-omiya-01/slide-001.png",
+          "assets/2026/final/2026-omiya-01/slide-002.png",
+          "assets/2026/final/2026-omiya-01/slide-003.png",
+          "assets/2026/final/2026-omiya-01/slide-004.png",
+          "assets/2026/final/2026-omiya-01/slide-005.png",
+          "assets/2026/final/2026-omiya-01/slide-006.png",
+          "assets/2026/final/2026-omiya-01/slide-007.png"
+        ]
       }
     ]
   },
@@ -1107,14 +1199,28 @@ window.GAMEJAM_CATALOG = [
     "title": "WATER CLEAN OUT!",
     "genre": null,
     "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
+    "download": "https://drive.google.com/file/d/1rchjJA90yPOfgCeFZe2BElEGsUOhQ83T/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-omiya-02.mp4",
+    "videoLabel": "制作途中のプレイ動画",
+    "videoNote": "制作途中の記録です。",
     "thumbnail": "assets/2026/interim/2026-omiya-02/slide-001.png",
-    "submissionStatus": "成果物未確認",
     "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-omiya-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-001.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-002.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-003.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-004.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-005.png"
+        ]
+      },
       {
         "kind": "interim",
         "label": "中間報告",
@@ -1125,6 +1231,30 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-omiya-02/slide-003.png",
           "assets/2026/interim/2026-omiya-02/slide-004.png",
           "assets/2026/interim/2026-omiya-02/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-omiya-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-omiya-02/slide-001.png",
+          "assets/2026/planning/2026-omiya-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-omiya-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-omiya-02/slide-001.png",
+          "assets/2026/final/2026-omiya-02/slide-002.png",
+          "assets/2026/final/2026-omiya-02/slide-003.png",
+          "assets/2026/final/2026-omiya-02/slide-004.png",
+          "assets/2026/final/2026-omiya-02/slide-005.png",
+          "assets/2026/final/2026-omiya-02/slide-006.png",
+          "assets/2026/final/2026-omiya-02/slide-007.png",
+          "assets/2026/final/2026-omiya-02/slide-008.png"
         ]
       }
     ]
@@ -1142,7 +1272,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-akihabara-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-akihabara-01/proposal/slide-001.png",
     "documents": [
       {
@@ -1166,6 +1296,28 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-01/slide-003.png",
           "assets/2026/interim/2026-akihabara-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-01/slide-001.png",
+          "assets/2026/planning/2026-akihabara-01/slide-002.png",
+          "assets/2026/planning/2026-akihabara-01/slide-003.png",
+          "assets/2026/planning/2026-akihabara-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-01/slide-001.png",
+          "assets/2026/final/2026-akihabara-01/slide-002.png",
+          "assets/2026/final/2026-akihabara-01/slide-003.png",
+          "assets/2026/final/2026-akihabara-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -1182,7 +1334,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-akihabara-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/interim/2026-akihabara-02/slide-001.png",
     "documents": [
       {
@@ -1195,6 +1347,25 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-02/slide-003.png",
           "assets/2026/interim/2026-akihabara-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-02/slide-001.png",
+          "assets/2026/planning/2026-akihabara-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-02/slide-001.png",
+          "assets/2026/final/2026-akihabara-02/slide-002.png",
+          "assets/2026/final/2026-akihabara-02/slide-003.png"
+        ]
       }
     ]
   },
@@ -1205,14 +1376,22 @@ window.GAMEJAM_CATALOG = [
     "title": "ULTIMA DARTS（仮）",
     "genre": null,
     "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
+    "download": "https://drive.google.com/file/d/1Tf154UiuTBhZ7QlBKtGivRFsA7AfkZnr/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": null,
     "thumbnail": "assets/2026/interim/2026-akihabara-03/slide-001.png",
-    "submissionStatus": "成果物未確認",
     "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-03/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-03/proposal/slide-001.png"
+        ]
+      },
       {
         "kind": "interim",
         "label": "中間報告",
@@ -1224,6 +1403,39 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-03/slide-004.png",
           "assets/2026/interim/2026-akihabara-03/slide-005.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-03/slide-001.png",
+          "assets/2026/planning/2026-akihabara-03/slide-002.png",
+          "assets/2026/planning/2026-akihabara-03/slide-003.png",
+          "assets/2026/planning/2026-akihabara-03/slide-004.png",
+          "assets/2026/planning/2026-akihabara-03/slide-005.png",
+          "assets/2026/planning/2026-akihabara-03/slide-006.png",
+          "assets/2026/planning/2026-akihabara-03/slide-007.png",
+          "assets/2026/planning/2026-akihabara-03/slide-008.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-03/slide-001.png",
+          "assets/2026/final/2026-akihabara-03/slide-002.png",
+          "assets/2026/final/2026-akihabara-03/slide-003.png",
+          "assets/2026/final/2026-akihabara-03/slide-004.png",
+          "assets/2026/final/2026-akihabara-03/slide-005.png",
+          "assets/2026/final/2026-akihabara-03/slide-006.png",
+          "assets/2026/final/2026-akihabara-03/slide-007.png",
+          "assets/2026/final/2026-akihabara-03/slide-008.png",
+          "assets/2026/final/2026-akihabara-03/slide-009.png",
+          "assets/2026/final/2026-akihabara-03/slide-010.png",
+          "assets/2026/final/2026-akihabara-03/slide-011.png"
+        ]
       }
     ]
   },
@@ -1234,14 +1446,24 @@ window.GAMEJAM_CATALOG = [
     "title": "瞬刻のレイヤード",
     "genre": null,
     "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
+    "download": "https://drive.google.com/file/d/15ksgQijtbAbZIBx25D1EafZLrHvIUVjV/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-akihabara-04.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
     "thumbnail": "assets/2026/interim/2026-akihabara-04/slide-001.png",
-    "submissionStatus": "成果物未確認",
     "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-04/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-04/proposal/slide-001.png"
+        ]
+      },
       {
         "kind": "interim",
         "label": "中間報告",
@@ -1251,6 +1473,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-04/slide-002.png",
           "assets/2026/interim/2026-akihabara-04/slide-003.png",
           "assets/2026/interim/2026-akihabara-04/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-04.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-04/slide-001.png",
+          "assets/2026/planning/2026-akihabara-04/slide-002.png",
+          "assets/2026/planning/2026-akihabara-04/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-04.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-04/slide-001.png",
+          "assets/2026/final/2026-akihabara-04/slide-002.png",
+          "assets/2026/final/2026-akihabara-04/slide-003.png",
+          "assets/2026/final/2026-akihabara-04/slide-004.png"
         ]
       }
     ]
@@ -1268,7 +1511,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-akihabara-05.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-akihabara-05/proposal/slide-001.png",
     "documents": [
       {
@@ -1291,6 +1534,28 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-05/slide-002.png",
           "assets/2026/interim/2026-akihabara-05/slide-003.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-05.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-05/slide-001.png",
+          "assets/2026/planning/2026-akihabara-05/slide-002.png",
+          "assets/2026/planning/2026-akihabara-05/slide-003.png",
+          "assets/2026/planning/2026-akihabara-05/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-05.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-05/slide-001.png",
+          "assets/2026/final/2026-akihabara-05/slide-002.png",
+          "assets/2026/final/2026-akihabara-05/slide-003.png",
+          "assets/2026/final/2026-akihabara-05/slide-004.png"
+        ]
       }
     ]
   },
@@ -1307,7 +1572,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-akihabara-06.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/interim/2026-akihabara-06/slide-001.png",
     "documents": [
       {
@@ -1319,6 +1584,31 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-akihabara-06/slide-002.png",
           "assets/2026/interim/2026-akihabara-06/slide-003.png",
           "assets/2026/interim/2026-akihabara-06/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-06.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-06/slide-001.png",
+          "assets/2026/planning/2026-akihabara-06/slide-002.png",
+          "assets/2026/planning/2026-akihabara-06/slide-003.png",
+          "assets/2026/planning/2026-akihabara-06/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-06.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-06/slide-001.png",
+          "assets/2026/final/2026-akihabara-06/slide-002.png",
+          "assets/2026/final/2026-akihabara-06/slide-003.png",
+          "assets/2026/final/2026-akihabara-06/slide-004.png",
+          "assets/2026/final/2026-akihabara-06/slide-005.png",
+          "assets/2026/final/2026-akihabara-06/slide-006.png",
+          "assets/2026/final/2026-akihabara-06/slide-007.png"
         ]
       }
     ]
@@ -1336,7 +1626,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-yokohama-a.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-yokohama-a/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1358,6 +1648,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-yokohama-a/slide-003.png"
         ],
         "note": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。"
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-a.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-a/slide-001.png",
+          "assets/2026/planning/2026-yokohama-a/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-a.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-a/slide-001.png",
+          "assets/2026/final/2026-yokohama-a/slide-002.png",
+          "assets/2026/final/2026-yokohama-a/slide-003.png",
+          "assets/2026/final/2026-yokohama-a/slide-004.png",
+          "assets/2026/final/2026-yokohama-a/slide-005.png"
+        ]
       }
     ]
   },
@@ -1374,7 +1685,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-yokohama-b.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-yokohama-b/proposal/slide-001.png",
     "documents": [
       {
@@ -1403,6 +1714,29 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-yokohama-b/slide-002.png",
           "assets/2026/interim/2026-yokohama-b/slide-003.png",
           "assets/2026/interim/2026-yokohama-b/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-b.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-b/slide-001.png",
+          "assets/2026/planning/2026-yokohama-b/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-b.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-b/slide-001.png",
+          "assets/2026/final/2026-yokohama-b/slide-002.png",
+          "assets/2026/final/2026-yokohama-b/slide-003.png",
+          "assets/2026/final/2026-yokohama-b/slide-004.png",
+          "assets/2026/final/2026-yokohama-b/slide-005.png",
+          "assets/2026/final/2026-yokohama-b/slide-006.png",
+          "assets/2026/final/2026-yokohama-b/slide-007.png"
         ]
       }
     ]
@@ -1439,6 +1773,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-yokohama-02/slide-003.png",
           "assets/2026/interim/2026-yokohama-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-c.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-c/slide-001.png",
+          "assets/2026/planning/2026-yokohama-c/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-c.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-c/slide-001.png",
+          "assets/2026/final/2026-yokohama-c/slide-002.png",
+          "assets/2026/final/2026-yokohama-c/slide-003.png",
+          "assets/2026/final/2026-yokohama-c/slide-004.png"
+        ]
       }
     ]
   },
@@ -1456,7 +1810,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-shizuoka-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-shizuoka-01/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1478,6 +1832,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-shizuoka-01/slide-003.png",
           "assets/2026/interim/2026-shizuoka-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-shizuoka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-shizuoka-01/slide-001.png",
+          "assets/2026/planning/2026-shizuoka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-shizuoka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-shizuoka-01/slide-001.png",
+          "assets/2026/final/2026-shizuoka-01/slide-002.png",
+          "assets/2026/final/2026-shizuoka-01/slide-003.png",
+          "assets/2026/final/2026-shizuoka-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -1494,7 +1868,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-shizuoka-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "Unity画面全体を含む録画です。",
     "thumbnail": "assets/2026/submissions/2026-shizuoka-02/thumbnail/image.png",
     "documents": [
       {
@@ -1507,6 +1881,28 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-shizuoka-02/slide-003.png",
           "assets/2026/interim/2026-shizuoka-02/slide-004.png",
           "assets/2026/interim/2026-shizuoka-02/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-shizuoka-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-shizuoka-02/slide-001.png",
+          "assets/2026/planning/2026-shizuoka-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-shizuoka-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-shizuoka-02/slide-001.png",
+          "assets/2026/final/2026-shizuoka-02/slide-002.png",
+          "assets/2026/final/2026-shizuoka-02/slide-003.png",
+          "assets/2026/final/2026-shizuoka-02/slide-004.png",
+          "assets/2026/final/2026-shizuoka-02/slide-005.png",
+          "assets/2026/final/2026-shizuoka-02/slide-006.png"
         ]
       }
     ]
@@ -1524,7 +1920,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-nagoya-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-nagoya-01/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1549,6 +1945,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-nagoya-01/slide-003.png",
           "assets/2026/interim/2026-nagoya-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-01/slide-001.png",
+          "assets/2026/planning/2026-nagoya-01/slide-002.png",
+          "assets/2026/planning/2026-nagoya-01/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-01/slide-001.png",
+          "assets/2026/final/2026-nagoya-01/slide-002.png",
+          "assets/2026/final/2026-nagoya-01/slide-003.png",
+          "assets/2026/final/2026-nagoya-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -1565,7 +1982,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-nagoya-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-nagoya-02/proposal/slide-001.png",
     "documents": [
       {
@@ -1586,6 +2003,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-nagoya-02/slide-003.png",
           "assets/2026/interim/2026-nagoya-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-02/slide-001.png",
+          "assets/2026/planning/2026-nagoya-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-02/slide-001.png",
+          "assets/2026/final/2026-nagoya-02/slide-002.png",
+          "assets/2026/final/2026-nagoya-02/slide-003.png",
+          "assets/2026/final/2026-nagoya-02/slide-004.png"
+        ]
       }
     ]
   },
@@ -1602,7 +2039,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-nagoya-03.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-nagoya-03/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1633,6 +2070,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-nagoya-03/slide-002.png",
           "assets/2026/interim/2026-nagoya-03/slide-003.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-03/slide-001.png",
+          "assets/2026/planning/2026-nagoya-03/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-03/slide-001.png",
+          "assets/2026/final/2026-nagoya-03/slide-002.png",
+          "assets/2026/final/2026-nagoya-03/slide-003.png",
+          "assets/2026/final/2026-nagoya-03/slide-004.png",
+          "assets/2026/final/2026-nagoya-03/slide-005.png"
+        ]
       }
     ]
   },
@@ -1650,7 +2108,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-kyoto-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-kyoto-01/proposal/slide-001.png",
     "documents": [
       {
@@ -1674,6 +2132,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-kyoto-01/slide-003.png",
           "assets/2026/interim/2026-kyoto-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kyoto-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kyoto-01/slide-001.png",
+          "assets/2026/planning/2026-kyoto-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kyoto-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kyoto-01/slide-001.png",
+          "assets/2026/final/2026-kyoto-01/slide-002.png",
+          "assets/2026/final/2026-kyoto-01/slide-003.png",
+          "assets/2026/final/2026-kyoto-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -1691,7 +2169,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-kyoto-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-kyoto-02/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1716,6 +2194,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-kyoto-02/slide-003.png",
           "assets/2026/interim/2026-kyoto-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kyoto-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kyoto-02/slide-001.png",
+          "assets/2026/planning/2026-kyoto-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kyoto-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-kyoto-02/slide-001.png",
+          "assets/2026/final/2026-kyoto-02/slide-002.png",
+          "assets/2026/final/2026-kyoto-02/slide-003.png",
+          "assets/2026/final/2026-kyoto-02/slide-004.png",
+          "assets/2026/final/2026-kyoto-02/slide-005.png"
+        ]
       }
     ]
   },
@@ -1733,7 +2232,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-osaka-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-osaka-01/proposal/slide-001.png",
     "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
     "documents": [
@@ -1755,6 +2254,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-osaka-01/slide-003.png",
           "assets/2026/interim/2026-osaka-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-osaka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-osaka-01/slide-001.png",
+          "assets/2026/planning/2026-osaka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-osaka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-osaka-01/slide-001.png",
+          "assets/2026/final/2026-osaka-01/slide-002.png",
+          "assets/2026/final/2026-osaka-01/slide-003.png",
+          "assets/2026/final/2026-osaka-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -1771,7 +2290,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-unity-player-build",
     "video": "assets/2026/media/2026-osaka-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-osaka-02/proposal/slide-001.png",
     "documents": [
       {
@@ -1803,6 +2322,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-osaka-02/slide-003.png",
           "assets/2026/interim/2026-osaka-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-osaka-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-osaka-02/slide-001.png",
+          "assets/2026/planning/2026-osaka-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-osaka-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-osaka-02/slide-001.png",
+          "assets/2026/final/2026-osaka-02/slide-002.png",
+          "assets/2026/final/2026-osaka-02/slide-003.png",
+          "assets/2026/final/2026-osaka-02/slide-004.png",
+          "assets/2026/final/2026-osaka-02/slide-005.png"
+        ]
       }
     ]
   },
@@ -1820,7 +2360,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-kobe-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-kobe-01/proposal/slide-001.png",
     "documents": [
       {
@@ -1840,6 +2380,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-kobe-01/slide-002.png",
           "assets/2026/interim/2026-kobe-01/slide-003.png",
           "assets/2026/interim/2026-kobe-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kobe-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kobe-01/slide-001.png",
+          "assets/2026/planning/2026-kobe-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kobe-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kobe-01/slide-001.png",
+          "assets/2026/final/2026-kobe-01/slide-002.png",
+          "assets/2026/final/2026-kobe-01/slide-003.png",
+          "assets/2026/final/2026-kobe-01/slide-004.png",
+          "assets/2026/final/2026-kobe-01/slide-005.png"
         ]
       }
     ]
@@ -1869,6 +2430,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-hiroshima-01/slide-003.png",
           "assets/2026/interim/2026-hiroshima-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-hiroshima-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-hiroshima-01/slide-001.png",
+          "assets/2026/planning/2026-hiroshima-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-hiroshima-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-hiroshima-01/slide-001.png",
+          "assets/2026/final/2026-hiroshima-01/slide-002.png",
+          "assets/2026/final/2026-hiroshima-01/slide-003.png",
+          "assets/2026/final/2026-hiroshima-01/slide-004.png",
+          "assets/2026/final/2026-hiroshima-01/slide-005.png"
+        ]
       }
     ]
   },
@@ -1886,7 +2468,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-fukuoka-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-fukuoka-01/proposal/slide-001.png",
     "documents": [
       {
@@ -1916,6 +2498,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-fukuoka-01/slide-003.png",
           "assets/2026/interim/2026-fukuoka-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-fukuoka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-fukuoka-01/slide-001.png",
+          "assets/2026/planning/2026-fukuoka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-fukuoka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-fukuoka-01/slide-001.png",
+          "assets/2026/final/2026-fukuoka-01/slide-002.png",
+          "assets/2026/final/2026-fukuoka-01/slide-003.png",
+          "assets/2026/final/2026-fukuoka-01/slide-004.png",
+          "assets/2026/final/2026-fukuoka-01/slide-005.png"
+        ]
       }
     ]
   },
@@ -1944,6 +2547,29 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-kagoshima-01/slide-003.png",
           "assets/2026/interim/2026-kagoshima-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kagoshima-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kagoshima-01/slide-001.png",
+          "assets/2026/planning/2026-kagoshima-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kagoshima-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kagoshima-01/slide-001.png",
+          "assets/2026/final/2026-kagoshima-01/slide-002.png",
+          "assets/2026/final/2026-kagoshima-01/slide-003.png",
+          "assets/2026/final/2026-kagoshima-01/slide-004.png",
+          "assets/2026/final/2026-kagoshima-01/slide-005.png",
+          "assets/2026/final/2026-kagoshima-01/slide-006.png",
+          "assets/2026/final/2026-kagoshima-01/slide-007.png"
+        ]
       }
     ]
   },
@@ -1961,7 +2587,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-naha-01.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-naha-01/thumbnail/image.png",
     "documents": [
       {
@@ -2029,6 +2655,26 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-naha-01/slide-003.png",
           "assets/2026/interim/2026-naha-01/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-01/slide-001.png",
+          "assets/2026/planning/2026-naha-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-01/slide-001.png",
+          "assets/2026/final/2026-naha-01/slide-002.png",
+          "assets/2026/final/2026-naha-01/slide-003.png",
+          "assets/2026/final/2026-naha-01/slide-004.png"
+        ]
       }
     ]
   },
@@ -2045,7 +2691,7 @@ window.GAMEJAM_CATALOG = [
     "downloadStatus": "verified-complete-game-only-folder",
     "video": "assets/2026/media/2026-naha-02.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "Unity画面全体を含む録画です。",
     "thumbnail": "assets/2026/submissions/2026-naha-02/proposal/slide-001.png",
     "documents": [
       {
@@ -2066,6 +2712,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-naha-02/slide-003.png",
           "assets/2026/interim/2026-naha-02/slide-004.png"
         ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-02/slide-001.png",
+          "assets/2026/planning/2026-naha-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-02/slide-001.png",
+          "assets/2026/final/2026-naha-02/slide-002.png",
+          "assets/2026/final/2026-naha-02/slide-003.png",
+          "assets/2026/final/2026-naha-02/slide-004.png",
+          "assets/2026/final/2026-naha-02/slide-005.png"
+        ]
       }
     ]
   },
@@ -2083,7 +2750,7 @@ window.GAMEJAM_CATALOG = [
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
     "video": "assets/2026/media/2026-naha-03.mp4",
     "videoLabel": "プレイ動画",
-    "videoNote": "音声を確認していないため、公開版は音声なしです。",
+    "videoNote": "",
     "thumbnail": "assets/2026/submissions/2026-naha-03/proposal/slide-001.png",
     "documents": [
       {
@@ -2103,6 +2770,27 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/interim/2026-naha-03/slide-002.png",
           "assets/2026/interim/2026-naha-03/slide-003.png",
           "assets/2026/interim/2026-naha-03/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-03/slide-001.png",
+          "assets/2026/planning/2026-naha-03/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-03/slide-001.png",
+          "assets/2026/final/2026-naha-03/slide-002.png",
+          "assets/2026/final/2026-naha-03/slide-003.png",
+          "assets/2026/final/2026-naha-03/slide-004.png",
+          "assets/2026/final/2026-naha-03/slide-005.png"
         ]
       }
     ]
