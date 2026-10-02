@@ -34,7 +34,7 @@ const GCKPortfolio = (() => {
 
     if (!config.videos.length) {
       if (config.pageType === 'index') {
-        config.videos = CATALOG.filter((work) => work.video).map((work) => work.video).slice(0, 12);
+        config.videos = CATALOG.filter((work) => work.video).map((work) => work.video);
       } else {
         const requestedId = new URLSearchParams(location.search).get('id');
         config.currentTeam = requestedId || CATALOG[0]?.id;
@@ -213,6 +213,15 @@ const GCKPortfolio = (() => {
     const revealVideo = document.getElementById('revealVideo');
     if (!bgVideo) return;
 
+    const initialWork = config.pageType === 'team'
+      ? TEAM_DATA[config.currentTeam]
+      : CATALOG.find((work) => work.video === config.videos[0]);
+    [bgVideo, revealVideo].forEach((video) => {
+      if (!video) return;
+      if (initialWork?.thumbnail) video.poster = initialWork.thumbnail;
+      else video.removeAttribute('poster');
+    });
+
     if (config.videos.length > 0) {
       bgVideo.src = config.videos[0];
       if (revealVideo) revealVideo.src = config.videos[0];
@@ -241,8 +250,14 @@ const GCKPortfolio = (() => {
         currentVideoIndex = (currentVideoIndex + 1) % config.videos.length;
         const bgVideo = document.getElementById('bgVideo');
         const revealVideo = document.getElementById('revealVideo');
-        if (bgVideo) bgVideo.src = config.videos[currentVideoIndex];
-        if (revealVideo) revealVideo.src = config.videos[currentVideoIndex];
+        const nextVideo = config.videos[currentVideoIndex];
+        const nextWork = CATALOG.find((work) => work.video === nextVideo);
+        [bgVideo, revealVideo].forEach((video) => {
+          if (!video) return;
+          if (nextWork?.thumbnail) video.poster = nextWork.thumbnail;
+          else video.removeAttribute('poster');
+          video.src = nextVideo;
+        });
       });
     }
 

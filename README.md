@@ -1,6 +1,6 @@
 # All College Game Jam Works Archive
 
-Static, data-driven archive for All College Game Jam student works. Each project uses the shared `team.html?id=…` detail page, and the home page combines year, campus, and keyword filters.
+Static, data-driven archive for All College Game Jam student works. Each project uses the shared `team.html?id=…` detail page. Works appear newest year first, and the home page combines year and campus filters. Background playback prioritizes the newest available year. The 2026 thumbnails use game-video frames or representative final-presentation images when no video is available.
 
 ## 2025 archive
 

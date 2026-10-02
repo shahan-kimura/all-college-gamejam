@@ -1,6 +1,1796 @@
 // Generated from private, reviewed source catalogs. Do not edit by hand.
 window.GAMEJAM_CATALOG = [
   {
+    "id": "2026-sapporo-01",
+    "year": 2026,
+    "campus": "札幌校",
+    "title": "LOST TIME",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1NfJUOmcaq23cFqsHBpUzaCtjyRp7Hkql/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-sapporo-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-sapporo-01.jpg",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-sapporo-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-sapporo-01/slide-001.png",
+          "assets/2026/interim/2026-sapporo-01/slide-002.png",
+          "assets/2026/interim/2026-sapporo-01/slide-003.png",
+          "assets/2026/interim/2026-sapporo-01/slide-004.png",
+          "assets/2026/interim/2026-sapporo-01/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-sapporo-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-sapporo-01/slide-001.png",
+          "assets/2026/planning/2026-sapporo-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-sapporo-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-sapporo-01/slide-001.png",
+          "assets/2026/final/2026-sapporo-01/slide-002.png",
+          "assets/2026/final/2026-sapporo-01/slide-003.png",
+          "assets/2026/final/2026-sapporo-01/slide-004.png",
+          "assets/2026/final/2026-sapporo-01/slide-005.png",
+          "assets/2026/final/2026-sapporo-01/slide-006.png",
+          "assets/2026/final/2026-sapporo-01/slide-007.png",
+          "assets/2026/final/2026-sapporo-01/slide-008.png",
+          "assets/2026/final/2026-sapporo-01/slide-009.png",
+          "assets/2026/final/2026-sapporo-01/slide-010.png",
+          "assets/2026/final/2026-sapporo-01/slide-011.png",
+          "assets/2026/final/2026-sapporo-01/slide-012.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-sapporo-02",
+    "year": 2026,
+    "campus": "札幌校",
+    "title": "ZERO・RECONFIGURE（仮）",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1VK7eN-xiXMptDDvzHQzyMKYik9OJGRpJ/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-sapporo-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "Unity画面全体を含む録画です。",
+    "thumbnail": "assets/2026/thumbnails/2026-sapporo-02.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-sapporo-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-sapporo-02/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-sapporo-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-sapporo-02/slide-001.png",
+          "assets/2026/interim/2026-sapporo-02/slide-002.png",
+          "assets/2026/interim/2026-sapporo-02/slide-003.png",
+          "assets/2026/interim/2026-sapporo-02/slide-004.png",
+          "assets/2026/interim/2026-sapporo-02/slide-005.png",
+          "assets/2026/interim/2026-sapporo-02/slide-006.png",
+          "assets/2026/interim/2026-sapporo-02/slide-007.png",
+          "assets/2026/interim/2026-sapporo-02/slide-008.png",
+          "assets/2026/interim/2026-sapporo-02/slide-009.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-sapporo-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-sapporo-02/slide-001.png",
+          "assets/2026/planning/2026-sapporo-02/slide-002.png",
+          "assets/2026/planning/2026-sapporo-02/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-sapporo-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-sapporo-02/slide-001.png",
+          "assets/2026/final/2026-sapporo-02/slide-002.png",
+          "assets/2026/final/2026-sapporo-02/slide-003.png",
+          "assets/2026/final/2026-sapporo-02/slide-004.png",
+          "assets/2026/final/2026-sapporo-02/slide-005.png",
+          "assets/2026/final/2026-sapporo-02/slide-006.png",
+          "assets/2026/final/2026-sapporo-02/slide-007.png",
+          "assets/2026/final/2026-sapporo-02/slide-008.png",
+          "assets/2026/final/2026-sapporo-02/slide-009.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-omiya-01",
+    "year": 2026,
+    "campus": "大宮校",
+    "title": "ツクモギリ",
+    "genre": null,
+    "concept": null,
+    "download": "https://unityroom.com/games/tukumogiri",
+    "downloadLabel": "プレイ／配布",
+    "downloadAccess": "verified_public",
+    "downloadStatus": "verified-live-play-page",
+    "video": null,
+    "thumbnail": "assets/2026/thumbnails/2026-omiya-01.jpg",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-omiya-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-omiya-01/slide-001.png",
+          "assets/2026/interim/2026-omiya-01/slide-002.png",
+          "assets/2026/interim/2026-omiya-01/slide-003.png",
+          "assets/2026/interim/2026-omiya-01/slide-004.png",
+          "assets/2026/interim/2026-omiya-01/slide-005.png",
+          "assets/2026/interim/2026-omiya-01/slide-006.png",
+          "assets/2026/interim/2026-omiya-01/slide-007.png",
+          "assets/2026/interim/2026-omiya-01/slide-008.png",
+          "assets/2026/interim/2026-omiya-01/slide-009.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-omiya-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-omiya-01/slide-001.png",
+          "assets/2026/planning/2026-omiya-01/slide-002.png",
+          "assets/2026/planning/2026-omiya-01/slide-003.png",
+          "assets/2026/planning/2026-omiya-01/slide-004.png",
+          "assets/2026/planning/2026-omiya-01/slide-005.png",
+          "assets/2026/planning/2026-omiya-01/slide-006.png",
+          "assets/2026/planning/2026-omiya-01/slide-007.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-omiya-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-omiya-01/slide-001.png",
+          "assets/2026/final/2026-omiya-01/slide-002.png",
+          "assets/2026/final/2026-omiya-01/slide-003.png",
+          "assets/2026/final/2026-omiya-01/slide-004.png",
+          "assets/2026/final/2026-omiya-01/slide-005.png",
+          "assets/2026/final/2026-omiya-01/slide-006.png",
+          "assets/2026/final/2026-omiya-01/slide-007.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-omiya-02",
+    "year": 2026,
+    "campus": "大宮校",
+    "title": "WATER CLEAN OUT!",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1rchjJA90yPOfgCeFZe2BElEGsUOhQ83T/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-omiya-02.mp4",
+    "videoLabel": "制作途中のプレイ動画",
+    "videoNote": "制作途中の記録です。",
+    "thumbnail": "assets/2026/thumbnails/2026-omiya-02.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-omiya-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-001.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-002.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-003.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-004.png",
+          "assets/2026/submissions/2026-omiya-02/proposal/slide-005.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-omiya-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-omiya-02/slide-001.png",
+          "assets/2026/interim/2026-omiya-02/slide-002.png",
+          "assets/2026/interim/2026-omiya-02/slide-003.png",
+          "assets/2026/interim/2026-omiya-02/slide-004.png",
+          "assets/2026/interim/2026-omiya-02/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-omiya-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-omiya-02/slide-001.png",
+          "assets/2026/planning/2026-omiya-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-omiya-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-omiya-02/slide-001.png",
+          "assets/2026/final/2026-omiya-02/slide-002.png",
+          "assets/2026/final/2026-omiya-02/slide-003.png",
+          "assets/2026/final/2026-omiya-02/slide-004.png",
+          "assets/2026/final/2026-omiya-02/slide-005.png",
+          "assets/2026/final/2026-omiya-02/slide-006.png",
+          "assets/2026/final/2026-omiya-02/slide-007.png",
+          "assets/2026/final/2026-omiya-02/slide-008.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-01",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "No Delain",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/19Gn2_qukDHEaJSIsHcGpNLUFqBFmLldz/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-akihabara-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-01.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-01/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-01/proposal/slide-001.png",
+          "assets/2026/submissions/2026-akihabara-01/proposal/slide-002.png",
+          "assets/2026/submissions/2026-akihabara-01/proposal/slide-003.png",
+          "assets/2026/submissions/2026-akihabara-01/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-01/slide-001.png",
+          "assets/2026/interim/2026-akihabara-01/slide-002.png",
+          "assets/2026/interim/2026-akihabara-01/slide-003.png",
+          "assets/2026/interim/2026-akihabara-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-01/slide-001.png",
+          "assets/2026/planning/2026-akihabara-01/slide-002.png",
+          "assets/2026/planning/2026-akihabara-01/slide-003.png",
+          "assets/2026/planning/2026-akihabara-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-01/slide-001.png",
+          "assets/2026/final/2026-akihabara-01/slide-002.png",
+          "assets/2026/final/2026-akihabara-01/slide-003.png",
+          "assets/2026/final/2026-akihabara-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-02",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "調査員０",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/15IyMQ6eUEp3ouu_ZL_SOf4geGB85aeZl/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-akihabara-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-02.jpg",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-02/slide-001.png",
+          "assets/2026/interim/2026-akihabara-02/slide-002.png",
+          "assets/2026/interim/2026-akihabara-02/slide-003.png",
+          "assets/2026/interim/2026-akihabara-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-02/slide-001.png",
+          "assets/2026/planning/2026-akihabara-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-02/slide-001.png",
+          "assets/2026/final/2026-akihabara-02/slide-002.png",
+          "assets/2026/final/2026-akihabara-02/slide-003.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-03",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "ULTIMA DARTS（仮）",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1Tf154UiuTBhZ7QlBKtGivRFsA7AfkZnr/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": null,
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-03.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-03/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-03/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-03.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-03/slide-001.png",
+          "assets/2026/interim/2026-akihabara-03/slide-002.png",
+          "assets/2026/interim/2026-akihabara-03/slide-003.png",
+          "assets/2026/interim/2026-akihabara-03/slide-004.png",
+          "assets/2026/interim/2026-akihabara-03/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-03/slide-001.png",
+          "assets/2026/planning/2026-akihabara-03/slide-002.png",
+          "assets/2026/planning/2026-akihabara-03/slide-003.png",
+          "assets/2026/planning/2026-akihabara-03/slide-004.png",
+          "assets/2026/planning/2026-akihabara-03/slide-005.png",
+          "assets/2026/planning/2026-akihabara-03/slide-006.png",
+          "assets/2026/planning/2026-akihabara-03/slide-007.png",
+          "assets/2026/planning/2026-akihabara-03/slide-008.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-03/slide-001.png",
+          "assets/2026/final/2026-akihabara-03/slide-002.png",
+          "assets/2026/final/2026-akihabara-03/slide-003.png",
+          "assets/2026/final/2026-akihabara-03/slide-004.png",
+          "assets/2026/final/2026-akihabara-03/slide-005.png",
+          "assets/2026/final/2026-akihabara-03/slide-006.png",
+          "assets/2026/final/2026-akihabara-03/slide-007.png",
+          "assets/2026/final/2026-akihabara-03/slide-008.png",
+          "assets/2026/final/2026-akihabara-03/slide-009.png",
+          "assets/2026/final/2026-akihabara-03/slide-010.png",
+          "assets/2026/final/2026-akihabara-03/slide-011.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-04",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "瞬刻のレイヤード",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/15ksgQijtbAbZIBx25D1EafZLrHvIUVjV/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-akihabara-04.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-04.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-04/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-04/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-04.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-04/slide-001.png",
+          "assets/2026/interim/2026-akihabara-04/slide-002.png",
+          "assets/2026/interim/2026-akihabara-04/slide-003.png",
+          "assets/2026/interim/2026-akihabara-04/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-04.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-04/slide-001.png",
+          "assets/2026/planning/2026-akihabara-04/slide-002.png",
+          "assets/2026/planning/2026-akihabara-04/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-04.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-04/slide-001.png",
+          "assets/2026/final/2026-akihabara-04/slide-002.png",
+          "assets/2026/final/2026-akihabara-04/slide-003.png",
+          "assets/2026/final/2026-akihabara-04/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-05",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "REBOOT",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1AuDWn3x4X5-ZWJfJ8O1i4UQGwfZF-8bP/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-akihabara-05.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-05.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-akihabara-05/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-akihabara-05/proposal/slide-001.png",
+          "assets/2026/submissions/2026-akihabara-05/proposal/slide-002.png",
+          "assets/2026/submissions/2026-akihabara-05/proposal/slide-003.png",
+          "assets/2026/submissions/2026-akihabara-05/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-05.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-05/slide-001.png",
+          "assets/2026/interim/2026-akihabara-05/slide-002.png",
+          "assets/2026/interim/2026-akihabara-05/slide-003.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-05.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-05/slide-001.png",
+          "assets/2026/planning/2026-akihabara-05/slide-002.png",
+          "assets/2026/planning/2026-akihabara-05/slide-003.png",
+          "assets/2026/planning/2026-akihabara-05/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-05.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-05/slide-001.png",
+          "assets/2026/final/2026-akihabara-05/slide-002.png",
+          "assets/2026/final/2026-akihabara-05/slide-003.png",
+          "assets/2026/final/2026-akihabara-05/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-akihabara-06",
+    "year": 2026,
+    "campus": "秋葉原校",
+    "title": "～酔いどれ知らず～",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1vVHC1-xqSUosyut92Y4g4QT1EUddHcc5/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-akihabara-06.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-akihabara-06.jpg",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-akihabara-06.pdf",
+        "slides": [
+          "assets/2026/interim/2026-akihabara-06/slide-001.png",
+          "assets/2026/interim/2026-akihabara-06/slide-002.png",
+          "assets/2026/interim/2026-akihabara-06/slide-003.png",
+          "assets/2026/interim/2026-akihabara-06/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-akihabara-06.pdf",
+        "slides": [
+          "assets/2026/planning/2026-akihabara-06/slide-001.png",
+          "assets/2026/planning/2026-akihabara-06/slide-002.png",
+          "assets/2026/planning/2026-akihabara-06/slide-003.png",
+          "assets/2026/planning/2026-akihabara-06/slide-004.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-akihabara-06.pdf",
+        "slides": [
+          "assets/2026/final/2026-akihabara-06/slide-001.png",
+          "assets/2026/final/2026-akihabara-06/slide-002.png",
+          "assets/2026/final/2026-akihabara-06/slide-003.png",
+          "assets/2026/final/2026-akihabara-06/slide-004.png",
+          "assets/2026/final/2026-akihabara-06/slide-005.png",
+          "assets/2026/final/2026-akihabara-06/slide-006.png",
+          "assets/2026/final/2026-akihabara-06/slide-007.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-yokohama-a",
+    "year": 2026,
+    "campus": "横浜校",
+    "title": "ふうたろうの！ごほうびバカンス",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1_0r6YvelU_J-QXgL-SAIrwUGppXetIWB/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-yokohama-a.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-yokohama-a.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-yokohama-a/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：アイスゼロ大作戦（仮））",
+        "pdf": "assets/2026/interim/2026-yokohama-a.pdf",
+        "slides": [
+          "assets/2026/interim/2026-yokohama-a/slide-001.png",
+          "assets/2026/interim/2026-yokohama-a/slide-002.png",
+          "assets/2026/interim/2026-yokohama-a/slide-003.png"
+        ],
+        "note": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。"
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-a.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-a/slide-001.png",
+          "assets/2026/planning/2026-yokohama-a/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-a.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-a/slide-001.png",
+          "assets/2026/final/2026-yokohama-a/slide-002.png",
+          "assets/2026/final/2026-yokohama-a/slide-003.png",
+          "assets/2026/final/2026-yokohama-a/slide-004.png",
+          "assets/2026/final/2026-yokohama-a/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-yokohama-b",
+    "year": 2026,
+    "campus": "横浜校",
+    "title": "崖っぷちアイドル！心愛ちゃん",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1vyr8YnfIoIQOZgT6HzvNJQJhtD_VM7rZ/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-yokohama-b.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-yokohama-b.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-yokohama-b/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-001.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-002.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-003.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-004.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-005.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-006.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-007.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-008.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-009.png",
+          "assets/2026/submissions/2026-yokohama-b/proposal/slide-010.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-yokohama-b.pdf",
+        "slides": [
+          "assets/2026/interim/2026-yokohama-b/slide-001.png",
+          "assets/2026/interim/2026-yokohama-b/slide-002.png",
+          "assets/2026/interim/2026-yokohama-b/slide-003.png",
+          "assets/2026/interim/2026-yokohama-b/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-b.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-b/slide-001.png",
+          "assets/2026/planning/2026-yokohama-b/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-b.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-b/slide-001.png",
+          "assets/2026/final/2026-yokohama-b/slide-002.png",
+          "assets/2026/final/2026-yokohama-b/slide-003.png",
+          "assets/2026/final/2026-yokohama-b/slide-004.png",
+          "assets/2026/final/2026-yokohama-b/slide-005.png",
+          "assets/2026/final/2026-yokohama-b/slide-006.png",
+          "assets/2026/final/2026-yokohama-b/slide-007.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-yokohama-c",
+    "year": 2026,
+    "campus": "横浜校",
+    "title": "ぴったり討伐",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1egHmvhPboKfmOLIhQi2Pi68brVcEoTsQ/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": null,
+    "thumbnail": "assets/2026/thumbnails/2026-yokohama-c.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-yokohama-c/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-yokohama-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-yokohama-02/slide-001.png",
+          "assets/2026/interim/2026-yokohama-02/slide-002.png",
+          "assets/2026/interim/2026-yokohama-02/slide-003.png",
+          "assets/2026/interim/2026-yokohama-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-yokohama-c.pdf",
+        "slides": [
+          "assets/2026/planning/2026-yokohama-c/slide-001.png",
+          "assets/2026/planning/2026-yokohama-c/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-yokohama-c.pdf",
+        "slides": [
+          "assets/2026/final/2026-yokohama-c/slide-001.png",
+          "assets/2026/final/2026-yokohama-c/slide-002.png",
+          "assets/2026/final/2026-yokohama-c/slide-003.png",
+          "assets/2026/final/2026-yokohama-c/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-shizuoka-01",
+    "year": 2026,
+    "campus": "静岡校",
+    "title": "逝きたくないスケルトン",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1EvX0Da-tifdJAmQifaAEOa8-aEYLS2ju/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-shizuoka-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-shizuoka-01.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-shizuoka-01/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：逝きたくなスケルトン）",
+        "pdf": "assets/2026/interim/2026-shizuoka-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-shizuoka-01/slide-001.png",
+          "assets/2026/interim/2026-shizuoka-01/slide-002.png",
+          "assets/2026/interim/2026-shizuoka-01/slide-003.png",
+          "assets/2026/interim/2026-shizuoka-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-shizuoka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-shizuoka-01/slide-001.png",
+          "assets/2026/planning/2026-shizuoka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-shizuoka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-shizuoka-01/slide-001.png",
+          "assets/2026/final/2026-shizuoka-01/slide-002.png",
+          "assets/2026/final/2026-shizuoka-01/slide-003.png",
+          "assets/2026/final/2026-shizuoka-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-shizuoka-02",
+    "year": 2026,
+    "campus": "静岡校",
+    "title": "泥棒さんのレストラン",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1pnhVmZqPEXgu8ToaR7f8-gVXPjc6y1G1/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-shizuoka-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "Unity画面全体を含む録画です。",
+    "thumbnail": "assets/2026/thumbnails/2026-shizuoka-02.jpg",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-shizuoka-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-shizuoka-02/slide-001.png",
+          "assets/2026/interim/2026-shizuoka-02/slide-002.png",
+          "assets/2026/interim/2026-shizuoka-02/slide-003.png",
+          "assets/2026/interim/2026-shizuoka-02/slide-004.png",
+          "assets/2026/interim/2026-shizuoka-02/slide-005.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-shizuoka-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-shizuoka-02/slide-001.png",
+          "assets/2026/planning/2026-shizuoka-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-shizuoka-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-shizuoka-02/slide-001.png",
+          "assets/2026/final/2026-shizuoka-02/slide-002.png",
+          "assets/2026/final/2026-shizuoka-02/slide-003.png",
+          "assets/2026/final/2026-shizuoka-02/slide-004.png",
+          "assets/2026/final/2026-shizuoka-02/slide-005.png",
+          "assets/2026/final/2026-shizuoka-02/slide-006.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-nagoya-01",
+    "year": 2026,
+    "campus": "名古屋校",
+    "title": "Bring 0 Together",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1heGgupImUq5mmqrQ2XfhwIZDJ5fwvur6/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-nagoya-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-nagoya-01.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-nagoya-01/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-nagoya-01/proposal/slide-001.png",
+          "assets/2026/submissions/2026-nagoya-01/proposal/slide-002.png",
+          "assets/2026/submissions/2026-nagoya-01/proposal/slide-003.png",
+          "assets/2026/submissions/2026-nagoya-01/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：Bling 0 Together）",
+        "pdf": "assets/2026/interim/2026-nagoya-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-nagoya-01/slide-001.png",
+          "assets/2026/interim/2026-nagoya-01/slide-002.png",
+          "assets/2026/interim/2026-nagoya-01/slide-003.png",
+          "assets/2026/interim/2026-nagoya-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-01/slide-001.png",
+          "assets/2026/planning/2026-nagoya-01/slide-002.png",
+          "assets/2026/planning/2026-nagoya-01/slide-003.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-01/slide-001.png",
+          "assets/2026/final/2026-nagoya-01/slide-002.png",
+          "assets/2026/final/2026-nagoya-01/slide-003.png",
+          "assets/2026/final/2026-nagoya-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-nagoya-02",
+    "year": 2026,
+    "campus": "名古屋校",
+    "title": "CHAIN ZERO",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1ViRmpfT3VEqT5i4nT0GOsMiOeOqUNf1w/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-nagoya-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-nagoya-02.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-nagoya-02/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-nagoya-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-nagoya-02/slide-001.png",
+          "assets/2026/interim/2026-nagoya-02/slide-002.png",
+          "assets/2026/interim/2026-nagoya-02/slide-003.png",
+          "assets/2026/interim/2026-nagoya-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-02/slide-001.png",
+          "assets/2026/planning/2026-nagoya-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-02/slide-001.png",
+          "assets/2026/final/2026-nagoya-02/slide-002.png",
+          "assets/2026/final/2026-nagoya-02/slide-003.png",
+          "assets/2026/final/2026-nagoya-02/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-nagoya-03",
+    "year": 2026,
+    "campus": "名古屋校",
+    "title": "0! = 1",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/12ufu49I-ZCFQM1JaFLT0Pdka7V7vWAEx/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-nagoya-03.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-nagoya-03.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-nagoya-03/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-001.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-002.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-003.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-004.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-005.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-006.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-007.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-008.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-009.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-010.png",
+          "assets/2026/submissions/2026-nagoya-03/proposal/slide-011.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：ゲームタイトル）",
+        "pdf": "assets/2026/interim/2026-nagoya-03.pdf",
+        "slides": [
+          "assets/2026/interim/2026-nagoya-03/slide-001.png",
+          "assets/2026/interim/2026-nagoya-03/slide-002.png",
+          "assets/2026/interim/2026-nagoya-03/slide-003.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-nagoya-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-nagoya-03/slide-001.png",
+          "assets/2026/planning/2026-nagoya-03/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-nagoya-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-nagoya-03/slide-001.png",
+          "assets/2026/final/2026-nagoya-03/slide-002.png",
+          "assets/2026/final/2026-nagoya-03/slide-003.png",
+          "assets/2026/final/2026-nagoya-03/slide-004.png",
+          "assets/2026/final/2026-nagoya-03/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-kyoto-01",
+    "year": 2026,
+    "campus": "京都校",
+    "title": "Respawn",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1v53t3tXqsbl0fpPDW66s2muaOh-6JRUX/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-kyoto-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-kyoto-01.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-kyoto-01/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-kyoto-01/proposal/slide-001.png",
+          "assets/2026/submissions/2026-kyoto-01/proposal/slide-002.png",
+          "assets/2026/submissions/2026-kyoto-01/proposal/slide-003.png",
+          "assets/2026/submissions/2026-kyoto-01/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-kyoto-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-kyoto-01/slide-001.png",
+          "assets/2026/interim/2026-kyoto-01/slide-002.png",
+          "assets/2026/interim/2026-kyoto-01/slide-003.png",
+          "assets/2026/interim/2026-kyoto-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kyoto-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kyoto-01/slide-001.png",
+          "assets/2026/planning/2026-kyoto-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kyoto-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kyoto-01/slide-001.png",
+          "assets/2026/final/2026-kyoto-01/slide-002.png",
+          "assets/2026/final/2026-kyoto-01/slide-003.png",
+          "assets/2026/final/2026-kyoto-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-kyoto-02",
+    "year": 2026,
+    "campus": "京都校",
+    "title": "金、消えました",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1e4k28p0XVVRfkk38ia5sUwrjZO8u4pZm/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-kyoto-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-kyoto-02.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-kyoto-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-kyoto-02/proposal/slide-001.png",
+          "assets/2026/submissions/2026-kyoto-02/proposal/slide-002.png",
+          "assets/2026/submissions/2026-kyoto-02/proposal/slide-003.png",
+          "assets/2026/submissions/2026-kyoto-02/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：金、消します。）",
+        "pdf": "assets/2026/interim/2026-kyoto-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-kyoto-02/slide-001.png",
+          "assets/2026/interim/2026-kyoto-02/slide-002.png",
+          "assets/2026/interim/2026-kyoto-02/slide-003.png",
+          "assets/2026/interim/2026-kyoto-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kyoto-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kyoto-02/slide-001.png",
+          "assets/2026/planning/2026-kyoto-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kyoto-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-kyoto-02/slide-001.png",
+          "assets/2026/final/2026-kyoto-02/slide-002.png",
+          "assets/2026/final/2026-kyoto-02/slide-003.png",
+          "assets/2026/final/2026-kyoto-02/slide-004.png",
+          "assets/2026/final/2026-kyoto-02/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-osaka-01",
+    "year": 2026,
+    "campus": "大阪校",
+    "title": "Or0",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1PBMs61GPpMtOvKrsi82qWuqS8LqycdMU/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-osaka-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-osaka-01.jpg",
+    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-osaka-01/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告（当時の作品名：Or0(オアゼロ)）",
+        "pdf": "assets/2026/interim/2026-osaka-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-osaka-01/slide-001.png",
+          "assets/2026/interim/2026-osaka-01/slide-002.png",
+          "assets/2026/interim/2026-osaka-01/slide-003.png",
+          "assets/2026/interim/2026-osaka-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-osaka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-osaka-01/slide-001.png",
+          "assets/2026/planning/2026-osaka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-osaka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-osaka-01/slide-001.png",
+          "assets/2026/final/2026-osaka-01/slide-002.png",
+          "assets/2026/final/2026-osaka-01/slide-003.png",
+          "assets/2026/final/2026-osaka-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-osaka-02",
+    "year": 2026,
+    "campus": "大阪校",
+    "title": "0LOOP",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1Jsv9bbQ2avfKZTUj0aIDUXvg7be8u8X6/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-unity-player-build",
+    "video": "assets/2026/media/2026-osaka-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-osaka-02.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-osaka-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-osaka-02/proposal/slide-001.png",
+          "assets/2026/submissions/2026-osaka-02/proposal/slide-002.png",
+          "assets/2026/submissions/2026-osaka-02/proposal/slide-003.png",
+          "assets/2026/submissions/2026-osaka-02/proposal/slide-004.png"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "label": "作品紹介シート",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-osaka-02/onepage/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-osaka-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-osaka-02/slide-001.png",
+          "assets/2026/interim/2026-osaka-02/slide-002.png",
+          "assets/2026/interim/2026-osaka-02/slide-003.png",
+          "assets/2026/interim/2026-osaka-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-osaka-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-osaka-02/slide-001.png",
+          "assets/2026/planning/2026-osaka-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-osaka-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-osaka-02/slide-001.png",
+          "assets/2026/final/2026-osaka-02/slide-002.png",
+          "assets/2026/final/2026-osaka-02/slide-003.png",
+          "assets/2026/final/2026-osaka-02/slide-004.png",
+          "assets/2026/final/2026-osaka-02/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-kobe-01",
+    "year": 2026,
+    "campus": "神戸三宮校",
+    "title": "0カロリートレーナー",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/12HlLeAffljywl7oozkO3WBpCCaudb8W3/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-kobe-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-kobe-01.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-kobe-01/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-kobe-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-kobe-01/slide-001.png",
+          "assets/2026/interim/2026-kobe-01/slide-002.png",
+          "assets/2026/interim/2026-kobe-01/slide-003.png",
+          "assets/2026/interim/2026-kobe-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kobe-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kobe-01/slide-001.png",
+          "assets/2026/planning/2026-kobe-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kobe-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kobe-01/slide-001.png",
+          "assets/2026/final/2026-kobe-01/slide-002.png",
+          "assets/2026/final/2026-kobe-01/slide-003.png",
+          "assets/2026/final/2026-kobe-01/slide-004.png",
+          "assets/2026/final/2026-kobe-01/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-hiroshima-01",
+    "year": 2026,
+    "campus": "広島校",
+    "title": "ゼ０・クリーン！",
+    "genre": null,
+    "concept": null,
+    "download": null,
+    "downloadLabel": null,
+    "downloadAccess": null,
+    "downloadStatus": "no-package-found",
+    "video": null,
+    "thumbnail": "assets/2026/thumbnails/2026-hiroshima-01.jpg",
+    "submissionStatus": "成果物未確認",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-hiroshima-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-hiroshima-01/slide-001.png",
+          "assets/2026/interim/2026-hiroshima-01/slide-002.png",
+          "assets/2026/interim/2026-hiroshima-01/slide-003.png",
+          "assets/2026/interim/2026-hiroshima-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-hiroshima-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-hiroshima-01/slide-001.png",
+          "assets/2026/planning/2026-hiroshima-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-hiroshima-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-hiroshima-01/slide-001.png",
+          "assets/2026/final/2026-hiroshima-01/slide-002.png",
+          "assets/2026/final/2026-hiroshima-01/slide-003.png",
+          "assets/2026/final/2026-hiroshima-01/slide-004.png",
+          "assets/2026/final/2026-hiroshima-01/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-fukuoka-01",
+    "year": 2026,
+    "campus": "福岡校",
+    "title": "ZERO GRAVITY RACE",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1oLgrevoHIjseBjM-WGFrEz30nGTathz3/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-fukuoka-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-fukuoka-01.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-fukuoka-01/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-001.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-002.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-003.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-004.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-005.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-006.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-007.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-008.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-009.png",
+          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-010.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-fukuoka-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-fukuoka-01/slide-001.png",
+          "assets/2026/interim/2026-fukuoka-01/slide-002.png",
+          "assets/2026/interim/2026-fukuoka-01/slide-003.png",
+          "assets/2026/interim/2026-fukuoka-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-fukuoka-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-fukuoka-01/slide-001.png",
+          "assets/2026/planning/2026-fukuoka-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-fukuoka-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-fukuoka-01/slide-001.png",
+          "assets/2026/final/2026-fukuoka-01/slide-002.png",
+          "assets/2026/final/2026-fukuoka-01/slide-003.png",
+          "assets/2026/final/2026-fukuoka-01/slide-004.png",
+          "assets/2026/final/2026-fukuoka-01/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-kagoshima-01",
+    "year": 2026,
+    "campus": "鹿児島校",
+    "title": "モグってそろえて！",
+    "genre": null,
+    "concept": null,
+    "download": null,
+    "downloadLabel": null,
+    "downloadAccess": null,
+    "downloadStatus": "no-package-found",
+    "video": null,
+    "thumbnail": "assets/2026/thumbnails/2026-kagoshima-01.jpg",
+    "submissionStatus": "成果物未確認",
+    "documents": [
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-kagoshima-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-kagoshima-01/slide-001.png",
+          "assets/2026/interim/2026-kagoshima-01/slide-002.png",
+          "assets/2026/interim/2026-kagoshima-01/slide-003.png",
+          "assets/2026/interim/2026-kagoshima-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-kagoshima-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-kagoshima-01/slide-001.png",
+          "assets/2026/planning/2026-kagoshima-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-kagoshima-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-kagoshima-01/slide-001.png",
+          "assets/2026/final/2026-kagoshima-01/slide-002.png",
+          "assets/2026/final/2026-kagoshima-01/slide-003.png",
+          "assets/2026/final/2026-kagoshima-01/slide-004.png",
+          "assets/2026/final/2026-kagoshima-01/slide-005.png",
+          "assets/2026/final/2026-kagoshima-01/slide-006.png",
+          "assets/2026/final/2026-kagoshima-01/slide-007.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-naha-01",
+    "year": 2026,
+    "campus": "那覇校",
+    "title": "ExistenceZer0",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1me0d9ag56J3XjLgjatsclIRA9_uCNZww/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-naha-01.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-naha-01.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書（50%版）",
+        "pdf": "assets/2026/submissions/2026-naha-01/proposal-50.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-001.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-002.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-003.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-004.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-005.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-006.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-007.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-008.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-009.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-010.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-011.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-012.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-013.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-014.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-015.png",
+          "assets/2026/submissions/2026-naha-01/proposal-50/slide-016.png"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "label": "企画書（60%版）",
+        "pdf": "assets/2026/submissions/2026-naha-01/proposal-60.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-001.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-002.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-003.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-004.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-005.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-006.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-007.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-008.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-009.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-010.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-011.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-012.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-013.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-014.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-015.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-016.png",
+          "assets/2026/submissions/2026-naha-01/proposal-60/slide-017.png"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "label": "作品紹介シート",
+        "pdf": null,
+        "slides": [
+          "assets/2026/submissions/2026-naha-01/onepage/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-naha-01.pdf",
+        "slides": [
+          "assets/2026/interim/2026-naha-01/slide-001.png",
+          "assets/2026/interim/2026-naha-01/slide-002.png",
+          "assets/2026/interim/2026-naha-01/slide-003.png",
+          "assets/2026/interim/2026-naha-01/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-01.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-01/slide-001.png",
+          "assets/2026/planning/2026-naha-01/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-01.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-01/slide-001.png",
+          "assets/2026/final/2026-naha-01/slide-002.png",
+          "assets/2026/final/2026-naha-01/slide-003.png",
+          "assets/2026/final/2026-naha-01/slide-004.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-naha-02",
+    "year": 2026,
+    "campus": "那覇校",
+    "title": "0戦車",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/drive/folders/1uVji7DXkEiLs16bhTbDTZqf6HOjUR3zU",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "verified-complete-game-only-folder",
+    "video": "assets/2026/media/2026-naha-02.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "Unity画面全体を含む録画です。",
+    "thumbnail": "assets/2026/thumbnails/2026-naha-02.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-naha-02/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-naha-02/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-naha-02.pdf",
+        "slides": [
+          "assets/2026/interim/2026-naha-02/slide-001.png",
+          "assets/2026/interim/2026-naha-02/slide-002.png",
+          "assets/2026/interim/2026-naha-02/slide-003.png",
+          "assets/2026/interim/2026-naha-02/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-02.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-02/slide-001.png",
+          "assets/2026/planning/2026-naha-02/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-02.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-02/slide-001.png",
+          "assets/2026/final/2026-naha-02/slide-002.png",
+          "assets/2026/final/2026-naha-02/slide-003.png",
+          "assets/2026/final/2026-naha-02/slide-004.png",
+          "assets/2026/final/2026-naha-02/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-naha-03",
+    "year": 2026,
+    "campus": "那覇校",
+    "title": "絶対零度を操れ！",
+    "genre": null,
+    "concept": null,
+    "download": "https://drive.google.com/file/d/1FTsecUQ3J8ZEWn8-5hoVeYuT1ucOGIai/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "assets/2026/media/2026-naha-03.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
+    "thumbnail": "assets/2026/thumbnails/2026-naha-03.jpg",
+    "documents": [
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-naha-03/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-naha-03/proposal/slide-001.png"
+        ]
+      },
+      {
+        "kind": "interim",
+        "label": "中間報告",
+        "pdf": "assets/2026/interim/2026-naha-03.pdf",
+        "slides": [
+          "assets/2026/interim/2026-naha-03/slide-001.png",
+          "assets/2026/interim/2026-naha-03/slide-002.png",
+          "assets/2026/interim/2026-naha-03/slide-003.png",
+          "assets/2026/interim/2026-naha-03/slide-004.png"
+        ]
+      },
+      {
+        "kind": "planning",
+        "label": "企画発表",
+        "pdf": "assets/2026/planning/2026-naha-03.pdf",
+        "slides": [
+          "assets/2026/planning/2026-naha-03/slide-001.png",
+          "assets/2026/planning/2026-naha-03/slide-002.png"
+        ]
+      },
+      {
+        "kind": "final",
+        "label": "最終発表",
+        "pdf": "assets/2026/final/2026-naha-03.pdf",
+        "slides": [
+          "assets/2026/final/2026-naha-03/slide-001.png",
+          "assets/2026/final/2026-naha-03/slide-002.png",
+          "assets/2026/final/2026-naha-03/slide-003.png",
+          "assets/2026/final/2026-naha-03/slide-004.png",
+          "assets/2026/final/2026-naha-03/slide-005.png"
+        ]
+      }
+    ]
+  },
+  {
     "id": "2025-akiba-01",
     "year": 2025,
     "campus": "秋葉原校",
@@ -1001,1796 +2791,6 @@ window.GAMEJAM_CATALOG = [
           "https://shahan-kimura.github.io/all-college-gamejam-2025/kyoto_01/pages/page_4.jpg",
           "https://shahan-kimura.github.io/all-college-gamejam-2025/kyoto_01/pages/page_5.jpg",
           "https://shahan-kimura.github.io/all-college-gamejam-2025/kyoto_01/pages/page_6.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-sapporo-01",
-    "year": 2026,
-    "campus": "札幌校",
-    "title": "LOST TIME",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1NfJUOmcaq23cFqsHBpUzaCtjyRp7Hkql/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-sapporo-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/interim/2026-sapporo-01/slide-001.png",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-sapporo-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-sapporo-01/slide-001.png",
-          "assets/2026/interim/2026-sapporo-01/slide-002.png",
-          "assets/2026/interim/2026-sapporo-01/slide-003.png",
-          "assets/2026/interim/2026-sapporo-01/slide-004.png",
-          "assets/2026/interim/2026-sapporo-01/slide-005.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-sapporo-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-sapporo-01/slide-001.png",
-          "assets/2026/planning/2026-sapporo-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-sapporo-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-sapporo-01/slide-001.png",
-          "assets/2026/final/2026-sapporo-01/slide-002.png",
-          "assets/2026/final/2026-sapporo-01/slide-003.png",
-          "assets/2026/final/2026-sapporo-01/slide-004.png",
-          "assets/2026/final/2026-sapporo-01/slide-005.png",
-          "assets/2026/final/2026-sapporo-01/slide-006.png",
-          "assets/2026/final/2026-sapporo-01/slide-007.png",
-          "assets/2026/final/2026-sapporo-01/slide-008.png",
-          "assets/2026/final/2026-sapporo-01/slide-009.png",
-          "assets/2026/final/2026-sapporo-01/slide-010.png",
-          "assets/2026/final/2026-sapporo-01/slide-011.png",
-          "assets/2026/final/2026-sapporo-01/slide-012.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-sapporo-02",
-    "year": 2026,
-    "campus": "札幌校",
-    "title": "ZERO・RECONFIGURE（仮）",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1VK7eN-xiXMptDDvzHQzyMKYik9OJGRpJ/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-sapporo-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "Unity画面全体を含む録画です。",
-    "thumbnail": "assets/2026/interim/2026-sapporo-02/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-sapporo-02/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-sapporo-02/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-sapporo-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-sapporo-02/slide-001.png",
-          "assets/2026/interim/2026-sapporo-02/slide-002.png",
-          "assets/2026/interim/2026-sapporo-02/slide-003.png",
-          "assets/2026/interim/2026-sapporo-02/slide-004.png",
-          "assets/2026/interim/2026-sapporo-02/slide-005.png",
-          "assets/2026/interim/2026-sapporo-02/slide-006.png",
-          "assets/2026/interim/2026-sapporo-02/slide-007.png",
-          "assets/2026/interim/2026-sapporo-02/slide-008.png",
-          "assets/2026/interim/2026-sapporo-02/slide-009.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-sapporo-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-sapporo-02/slide-001.png",
-          "assets/2026/planning/2026-sapporo-02/slide-002.png",
-          "assets/2026/planning/2026-sapporo-02/slide-003.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-sapporo-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-sapporo-02/slide-001.png",
-          "assets/2026/final/2026-sapporo-02/slide-002.png",
-          "assets/2026/final/2026-sapporo-02/slide-003.png",
-          "assets/2026/final/2026-sapporo-02/slide-004.png",
-          "assets/2026/final/2026-sapporo-02/slide-005.png",
-          "assets/2026/final/2026-sapporo-02/slide-006.png",
-          "assets/2026/final/2026-sapporo-02/slide-007.png",
-          "assets/2026/final/2026-sapporo-02/slide-008.png",
-          "assets/2026/final/2026-sapporo-02/slide-009.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-omiya-01",
-    "year": 2026,
-    "campus": "大宮校",
-    "title": "ツクモギリ",
-    "genre": null,
-    "concept": null,
-    "download": "https://unityroom.com/games/tukumogiri",
-    "downloadLabel": "プレイ／配布",
-    "downloadAccess": "verified_public",
-    "downloadStatus": "verified-live-play-page",
-    "video": null,
-    "thumbnail": "assets/2026/interim/2026-omiya-01/slide-001.png",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-omiya-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-omiya-01/slide-001.png",
-          "assets/2026/interim/2026-omiya-01/slide-002.png",
-          "assets/2026/interim/2026-omiya-01/slide-003.png",
-          "assets/2026/interim/2026-omiya-01/slide-004.png",
-          "assets/2026/interim/2026-omiya-01/slide-005.png",
-          "assets/2026/interim/2026-omiya-01/slide-006.png",
-          "assets/2026/interim/2026-omiya-01/slide-007.png",
-          "assets/2026/interim/2026-omiya-01/slide-008.png",
-          "assets/2026/interim/2026-omiya-01/slide-009.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-omiya-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-omiya-01/slide-001.png",
-          "assets/2026/planning/2026-omiya-01/slide-002.png",
-          "assets/2026/planning/2026-omiya-01/slide-003.png",
-          "assets/2026/planning/2026-omiya-01/slide-004.png",
-          "assets/2026/planning/2026-omiya-01/slide-005.png",
-          "assets/2026/planning/2026-omiya-01/slide-006.png",
-          "assets/2026/planning/2026-omiya-01/slide-007.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-omiya-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-omiya-01/slide-001.png",
-          "assets/2026/final/2026-omiya-01/slide-002.png",
-          "assets/2026/final/2026-omiya-01/slide-003.png",
-          "assets/2026/final/2026-omiya-01/slide-004.png",
-          "assets/2026/final/2026-omiya-01/slide-005.png",
-          "assets/2026/final/2026-omiya-01/slide-006.png",
-          "assets/2026/final/2026-omiya-01/slide-007.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-omiya-02",
-    "year": 2026,
-    "campus": "大宮校",
-    "title": "WATER CLEAN OUT!",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1rchjJA90yPOfgCeFZe2BElEGsUOhQ83T/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-omiya-02.mp4",
-    "videoLabel": "制作途中のプレイ動画",
-    "videoNote": "制作途中の記録です。",
-    "thumbnail": "assets/2026/interim/2026-omiya-02/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-omiya-02/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-omiya-02/proposal/slide-001.png",
-          "assets/2026/submissions/2026-omiya-02/proposal/slide-002.png",
-          "assets/2026/submissions/2026-omiya-02/proposal/slide-003.png",
-          "assets/2026/submissions/2026-omiya-02/proposal/slide-004.png",
-          "assets/2026/submissions/2026-omiya-02/proposal/slide-005.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-omiya-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-omiya-02/slide-001.png",
-          "assets/2026/interim/2026-omiya-02/slide-002.png",
-          "assets/2026/interim/2026-omiya-02/slide-003.png",
-          "assets/2026/interim/2026-omiya-02/slide-004.png",
-          "assets/2026/interim/2026-omiya-02/slide-005.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-omiya-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-omiya-02/slide-001.png",
-          "assets/2026/planning/2026-omiya-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-omiya-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-omiya-02/slide-001.png",
-          "assets/2026/final/2026-omiya-02/slide-002.png",
-          "assets/2026/final/2026-omiya-02/slide-003.png",
-          "assets/2026/final/2026-omiya-02/slide-004.png",
-          "assets/2026/final/2026-omiya-02/slide-005.png",
-          "assets/2026/final/2026-omiya-02/slide-006.png",
-          "assets/2026/final/2026-omiya-02/slide-007.png",
-          "assets/2026/final/2026-omiya-02/slide-008.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-01",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "No Delain",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/19Gn2_qukDHEaJSIsHcGpNLUFqBFmLldz/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-akihabara-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-akihabara-01/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-akihabara-01/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-akihabara-01/proposal/slide-001.png",
-          "assets/2026/submissions/2026-akihabara-01/proposal/slide-002.png",
-          "assets/2026/submissions/2026-akihabara-01/proposal/slide-003.png",
-          "assets/2026/submissions/2026-akihabara-01/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-01/slide-001.png",
-          "assets/2026/interim/2026-akihabara-01/slide-002.png",
-          "assets/2026/interim/2026-akihabara-01/slide-003.png",
-          "assets/2026/interim/2026-akihabara-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-01/slide-001.png",
-          "assets/2026/planning/2026-akihabara-01/slide-002.png",
-          "assets/2026/planning/2026-akihabara-01/slide-003.png",
-          "assets/2026/planning/2026-akihabara-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-01/slide-001.png",
-          "assets/2026/final/2026-akihabara-01/slide-002.png",
-          "assets/2026/final/2026-akihabara-01/slide-003.png",
-          "assets/2026/final/2026-akihabara-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-02",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "調査員０",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/15IyMQ6eUEp3ouu_ZL_SOf4geGB85aeZl/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-akihabara-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/interim/2026-akihabara-02/slide-001.png",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-02/slide-001.png",
-          "assets/2026/interim/2026-akihabara-02/slide-002.png",
-          "assets/2026/interim/2026-akihabara-02/slide-003.png",
-          "assets/2026/interim/2026-akihabara-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-02/slide-001.png",
-          "assets/2026/planning/2026-akihabara-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-02/slide-001.png",
-          "assets/2026/final/2026-akihabara-02/slide-002.png",
-          "assets/2026/final/2026-akihabara-02/slide-003.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-03",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "ULTIMA DARTS（仮）",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1Tf154UiuTBhZ7QlBKtGivRFsA7AfkZnr/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": null,
-    "thumbnail": "assets/2026/interim/2026-akihabara-03/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-akihabara-03/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-akihabara-03/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-03.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-03/slide-001.png",
-          "assets/2026/interim/2026-akihabara-03/slide-002.png",
-          "assets/2026/interim/2026-akihabara-03/slide-003.png",
-          "assets/2026/interim/2026-akihabara-03/slide-004.png",
-          "assets/2026/interim/2026-akihabara-03/slide-005.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-03.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-03/slide-001.png",
-          "assets/2026/planning/2026-akihabara-03/slide-002.png",
-          "assets/2026/planning/2026-akihabara-03/slide-003.png",
-          "assets/2026/planning/2026-akihabara-03/slide-004.png",
-          "assets/2026/planning/2026-akihabara-03/slide-005.png",
-          "assets/2026/planning/2026-akihabara-03/slide-006.png",
-          "assets/2026/planning/2026-akihabara-03/slide-007.png",
-          "assets/2026/planning/2026-akihabara-03/slide-008.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-03.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-03/slide-001.png",
-          "assets/2026/final/2026-akihabara-03/slide-002.png",
-          "assets/2026/final/2026-akihabara-03/slide-003.png",
-          "assets/2026/final/2026-akihabara-03/slide-004.png",
-          "assets/2026/final/2026-akihabara-03/slide-005.png",
-          "assets/2026/final/2026-akihabara-03/slide-006.png",
-          "assets/2026/final/2026-akihabara-03/slide-007.png",
-          "assets/2026/final/2026-akihabara-03/slide-008.png",
-          "assets/2026/final/2026-akihabara-03/slide-009.png",
-          "assets/2026/final/2026-akihabara-03/slide-010.png",
-          "assets/2026/final/2026-akihabara-03/slide-011.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-04",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "瞬刻のレイヤード",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/15ksgQijtbAbZIBx25D1EafZLrHvIUVjV/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-akihabara-04.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/interim/2026-akihabara-04/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-akihabara-04/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-akihabara-04/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-04.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-04/slide-001.png",
-          "assets/2026/interim/2026-akihabara-04/slide-002.png",
-          "assets/2026/interim/2026-akihabara-04/slide-003.png",
-          "assets/2026/interim/2026-akihabara-04/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-04.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-04/slide-001.png",
-          "assets/2026/planning/2026-akihabara-04/slide-002.png",
-          "assets/2026/planning/2026-akihabara-04/slide-003.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-04.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-04/slide-001.png",
-          "assets/2026/final/2026-akihabara-04/slide-002.png",
-          "assets/2026/final/2026-akihabara-04/slide-003.png",
-          "assets/2026/final/2026-akihabara-04/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-05",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "REBOOT",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1AuDWn3x4X5-ZWJfJ8O1i4UQGwfZF-8bP/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-akihabara-05.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-akihabara-05/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-akihabara-05/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-akihabara-05/proposal/slide-001.png",
-          "assets/2026/submissions/2026-akihabara-05/proposal/slide-002.png",
-          "assets/2026/submissions/2026-akihabara-05/proposal/slide-003.png",
-          "assets/2026/submissions/2026-akihabara-05/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-05.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-05/slide-001.png",
-          "assets/2026/interim/2026-akihabara-05/slide-002.png",
-          "assets/2026/interim/2026-akihabara-05/slide-003.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-05.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-05/slide-001.png",
-          "assets/2026/planning/2026-akihabara-05/slide-002.png",
-          "assets/2026/planning/2026-akihabara-05/slide-003.png",
-          "assets/2026/planning/2026-akihabara-05/slide-004.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-05.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-05/slide-001.png",
-          "assets/2026/final/2026-akihabara-05/slide-002.png",
-          "assets/2026/final/2026-akihabara-05/slide-003.png",
-          "assets/2026/final/2026-akihabara-05/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-akihabara-06",
-    "year": 2026,
-    "campus": "秋葉原校",
-    "title": "～酔いどれ知らず～",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1vVHC1-xqSUosyut92Y4g4QT1EUddHcc5/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-akihabara-06.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/interim/2026-akihabara-06/slide-001.png",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-akihabara-06.pdf",
-        "slides": [
-          "assets/2026/interim/2026-akihabara-06/slide-001.png",
-          "assets/2026/interim/2026-akihabara-06/slide-002.png",
-          "assets/2026/interim/2026-akihabara-06/slide-003.png",
-          "assets/2026/interim/2026-akihabara-06/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-akihabara-06.pdf",
-        "slides": [
-          "assets/2026/planning/2026-akihabara-06/slide-001.png",
-          "assets/2026/planning/2026-akihabara-06/slide-002.png",
-          "assets/2026/planning/2026-akihabara-06/slide-003.png",
-          "assets/2026/planning/2026-akihabara-06/slide-004.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-akihabara-06.pdf",
-        "slides": [
-          "assets/2026/final/2026-akihabara-06/slide-001.png",
-          "assets/2026/final/2026-akihabara-06/slide-002.png",
-          "assets/2026/final/2026-akihabara-06/slide-003.png",
-          "assets/2026/final/2026-akihabara-06/slide-004.png",
-          "assets/2026/final/2026-akihabara-06/slide-005.png",
-          "assets/2026/final/2026-akihabara-06/slide-006.png",
-          "assets/2026/final/2026-akihabara-06/slide-007.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-yokohama-a",
-    "year": 2026,
-    "campus": "横浜校",
-    "title": "ふうたろうの！ごほうびバカンス",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1_0r6YvelU_J-QXgL-SAIrwUGppXetIWB/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-yokohama-a.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-yokohama-a/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-yokohama-a/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：アイスゼロ大作戦（仮））",
-        "pdf": "assets/2026/interim/2026-yokohama-a.pdf",
-        "slides": [
-          "assets/2026/interim/2026-yokohama-a/slide-001.png",
-          "assets/2026/interim/2026-yokohama-a/slide-002.png",
-          "assets/2026/interim/2026-yokohama-a/slide-003.png"
-        ],
-        "note": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。"
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-yokohama-a.pdf",
-        "slides": [
-          "assets/2026/planning/2026-yokohama-a/slide-001.png",
-          "assets/2026/planning/2026-yokohama-a/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-yokohama-a.pdf",
-        "slides": [
-          "assets/2026/final/2026-yokohama-a/slide-001.png",
-          "assets/2026/final/2026-yokohama-a/slide-002.png",
-          "assets/2026/final/2026-yokohama-a/slide-003.png",
-          "assets/2026/final/2026-yokohama-a/slide-004.png",
-          "assets/2026/final/2026-yokohama-a/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-yokohama-b",
-    "year": 2026,
-    "campus": "横浜校",
-    "title": "崖っぷちアイドル！心愛ちゃん",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1vyr8YnfIoIQOZgT6HzvNJQJhtD_VM7rZ/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-yokohama-b.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-yokohama-b/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-yokohama-b/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-001.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-002.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-003.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-004.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-005.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-006.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-007.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-008.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-009.png",
-          "assets/2026/submissions/2026-yokohama-b/proposal/slide-010.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-yokohama-b.pdf",
-        "slides": [
-          "assets/2026/interim/2026-yokohama-b/slide-001.png",
-          "assets/2026/interim/2026-yokohama-b/slide-002.png",
-          "assets/2026/interim/2026-yokohama-b/slide-003.png",
-          "assets/2026/interim/2026-yokohama-b/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-yokohama-b.pdf",
-        "slides": [
-          "assets/2026/planning/2026-yokohama-b/slide-001.png",
-          "assets/2026/planning/2026-yokohama-b/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-yokohama-b.pdf",
-        "slides": [
-          "assets/2026/final/2026-yokohama-b/slide-001.png",
-          "assets/2026/final/2026-yokohama-b/slide-002.png",
-          "assets/2026/final/2026-yokohama-b/slide-003.png",
-          "assets/2026/final/2026-yokohama-b/slide-004.png",
-          "assets/2026/final/2026-yokohama-b/slide-005.png",
-          "assets/2026/final/2026-yokohama-b/slide-006.png",
-          "assets/2026/final/2026-yokohama-b/slide-007.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-yokohama-c",
-    "year": 2026,
-    "campus": "横浜校",
-    "title": "ぴったり討伐",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1egHmvhPboKfmOLIhQi2Pi68brVcEoTsQ/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": null,
-    "thumbnail": "assets/2026/submissions/2026-yokohama-c/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-yokohama-c/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-yokohama-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-yokohama-02/slide-001.png",
-          "assets/2026/interim/2026-yokohama-02/slide-002.png",
-          "assets/2026/interim/2026-yokohama-02/slide-003.png",
-          "assets/2026/interim/2026-yokohama-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-yokohama-c.pdf",
-        "slides": [
-          "assets/2026/planning/2026-yokohama-c/slide-001.png",
-          "assets/2026/planning/2026-yokohama-c/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-yokohama-c.pdf",
-        "slides": [
-          "assets/2026/final/2026-yokohama-c/slide-001.png",
-          "assets/2026/final/2026-yokohama-c/slide-002.png",
-          "assets/2026/final/2026-yokohama-c/slide-003.png",
-          "assets/2026/final/2026-yokohama-c/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-shizuoka-01",
-    "year": 2026,
-    "campus": "静岡校",
-    "title": "逝きたくないスケルトン",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1EvX0Da-tifdJAmQifaAEOa8-aEYLS2ju/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-shizuoka-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-shizuoka-01/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-shizuoka-01/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：逝きたくなスケルトン）",
-        "pdf": "assets/2026/interim/2026-shizuoka-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-shizuoka-01/slide-001.png",
-          "assets/2026/interim/2026-shizuoka-01/slide-002.png",
-          "assets/2026/interim/2026-shizuoka-01/slide-003.png",
-          "assets/2026/interim/2026-shizuoka-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-shizuoka-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-shizuoka-01/slide-001.png",
-          "assets/2026/planning/2026-shizuoka-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-shizuoka-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-shizuoka-01/slide-001.png",
-          "assets/2026/final/2026-shizuoka-01/slide-002.png",
-          "assets/2026/final/2026-shizuoka-01/slide-003.png",
-          "assets/2026/final/2026-shizuoka-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-shizuoka-02",
-    "year": 2026,
-    "campus": "静岡校",
-    "title": "泥棒さんのレストラン",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1pnhVmZqPEXgu8ToaR7f8-gVXPjc6y1G1/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-shizuoka-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "Unity画面全体を含む録画です。",
-    "thumbnail": "assets/2026/submissions/2026-shizuoka-02/thumbnail/image.png",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-shizuoka-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-shizuoka-02/slide-001.png",
-          "assets/2026/interim/2026-shizuoka-02/slide-002.png",
-          "assets/2026/interim/2026-shizuoka-02/slide-003.png",
-          "assets/2026/interim/2026-shizuoka-02/slide-004.png",
-          "assets/2026/interim/2026-shizuoka-02/slide-005.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-shizuoka-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-shizuoka-02/slide-001.png",
-          "assets/2026/planning/2026-shizuoka-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-shizuoka-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-shizuoka-02/slide-001.png",
-          "assets/2026/final/2026-shizuoka-02/slide-002.png",
-          "assets/2026/final/2026-shizuoka-02/slide-003.png",
-          "assets/2026/final/2026-shizuoka-02/slide-004.png",
-          "assets/2026/final/2026-shizuoka-02/slide-005.png",
-          "assets/2026/final/2026-shizuoka-02/slide-006.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-nagoya-01",
-    "year": 2026,
-    "campus": "名古屋校",
-    "title": "Bring 0 Together",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1heGgupImUq5mmqrQ2XfhwIZDJ5fwvur6/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-nagoya-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-nagoya-01/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-nagoya-01/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-nagoya-01/proposal/slide-001.png",
-          "assets/2026/submissions/2026-nagoya-01/proposal/slide-002.png",
-          "assets/2026/submissions/2026-nagoya-01/proposal/slide-003.png",
-          "assets/2026/submissions/2026-nagoya-01/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：Bling 0 Together）",
-        "pdf": "assets/2026/interim/2026-nagoya-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-nagoya-01/slide-001.png",
-          "assets/2026/interim/2026-nagoya-01/slide-002.png",
-          "assets/2026/interim/2026-nagoya-01/slide-003.png",
-          "assets/2026/interim/2026-nagoya-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-nagoya-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-nagoya-01/slide-001.png",
-          "assets/2026/planning/2026-nagoya-01/slide-002.png",
-          "assets/2026/planning/2026-nagoya-01/slide-003.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-nagoya-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-nagoya-01/slide-001.png",
-          "assets/2026/final/2026-nagoya-01/slide-002.png",
-          "assets/2026/final/2026-nagoya-01/slide-003.png",
-          "assets/2026/final/2026-nagoya-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-nagoya-02",
-    "year": 2026,
-    "campus": "名古屋校",
-    "title": "CHAIN ZERO",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1ViRmpfT3VEqT5i4nT0GOsMiOeOqUNf1w/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-nagoya-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-nagoya-02/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-nagoya-02/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-nagoya-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-nagoya-02/slide-001.png",
-          "assets/2026/interim/2026-nagoya-02/slide-002.png",
-          "assets/2026/interim/2026-nagoya-02/slide-003.png",
-          "assets/2026/interim/2026-nagoya-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-nagoya-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-nagoya-02/slide-001.png",
-          "assets/2026/planning/2026-nagoya-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-nagoya-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-nagoya-02/slide-001.png",
-          "assets/2026/final/2026-nagoya-02/slide-002.png",
-          "assets/2026/final/2026-nagoya-02/slide-003.png",
-          "assets/2026/final/2026-nagoya-02/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-nagoya-03",
-    "year": 2026,
-    "campus": "名古屋校",
-    "title": "0! = 1",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/12ufu49I-ZCFQM1JaFLT0Pdka7V7vWAEx/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-nagoya-03.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-nagoya-03/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-nagoya-03/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-001.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-002.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-003.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-004.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-005.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-006.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-007.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-008.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-009.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-010.png",
-          "assets/2026/submissions/2026-nagoya-03/proposal/slide-011.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：ゲームタイトル）",
-        "pdf": "assets/2026/interim/2026-nagoya-03.pdf",
-        "slides": [
-          "assets/2026/interim/2026-nagoya-03/slide-001.png",
-          "assets/2026/interim/2026-nagoya-03/slide-002.png",
-          "assets/2026/interim/2026-nagoya-03/slide-003.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-nagoya-03.pdf",
-        "slides": [
-          "assets/2026/planning/2026-nagoya-03/slide-001.png",
-          "assets/2026/planning/2026-nagoya-03/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-nagoya-03.pdf",
-        "slides": [
-          "assets/2026/final/2026-nagoya-03/slide-001.png",
-          "assets/2026/final/2026-nagoya-03/slide-002.png",
-          "assets/2026/final/2026-nagoya-03/slide-003.png",
-          "assets/2026/final/2026-nagoya-03/slide-004.png",
-          "assets/2026/final/2026-nagoya-03/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-kyoto-01",
-    "year": 2026,
-    "campus": "京都校",
-    "title": "Respawn",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1v53t3tXqsbl0fpPDW66s2muaOh-6JRUX/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-kyoto-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-kyoto-01/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-kyoto-01/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-kyoto-01/proposal/slide-001.png",
-          "assets/2026/submissions/2026-kyoto-01/proposal/slide-002.png",
-          "assets/2026/submissions/2026-kyoto-01/proposal/slide-003.png",
-          "assets/2026/submissions/2026-kyoto-01/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-kyoto-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-kyoto-01/slide-001.png",
-          "assets/2026/interim/2026-kyoto-01/slide-002.png",
-          "assets/2026/interim/2026-kyoto-01/slide-003.png",
-          "assets/2026/interim/2026-kyoto-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-kyoto-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-kyoto-01/slide-001.png",
-          "assets/2026/planning/2026-kyoto-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-kyoto-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-kyoto-01/slide-001.png",
-          "assets/2026/final/2026-kyoto-01/slide-002.png",
-          "assets/2026/final/2026-kyoto-01/slide-003.png",
-          "assets/2026/final/2026-kyoto-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-kyoto-02",
-    "year": 2026,
-    "campus": "京都校",
-    "title": "金、消えました",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1e4k28p0XVVRfkk38ia5sUwrjZO8u4pZm/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-kyoto-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-kyoto-02/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-kyoto-02/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-kyoto-02/proposal/slide-001.png",
-          "assets/2026/submissions/2026-kyoto-02/proposal/slide-002.png",
-          "assets/2026/submissions/2026-kyoto-02/proposal/slide-003.png",
-          "assets/2026/submissions/2026-kyoto-02/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：金、消します。）",
-        "pdf": "assets/2026/interim/2026-kyoto-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-kyoto-02/slide-001.png",
-          "assets/2026/interim/2026-kyoto-02/slide-002.png",
-          "assets/2026/interim/2026-kyoto-02/slide-003.png",
-          "assets/2026/interim/2026-kyoto-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-kyoto-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-kyoto-02/slide-001.png",
-          "assets/2026/planning/2026-kyoto-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-kyoto-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-kyoto-02/slide-001.png",
-          "assets/2026/final/2026-kyoto-02/slide-002.png",
-          "assets/2026/final/2026-kyoto-02/slide-003.png",
-          "assets/2026/final/2026-kyoto-02/slide-004.png",
-          "assets/2026/final/2026-kyoto-02/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-osaka-01",
-    "year": 2026,
-    "campus": "大阪校",
-    "title": "Or0",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1PBMs61GPpMtOvKrsi82qWuqS8LqycdMU/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-osaka-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-osaka-01/proposal/slide-001.png",
-    "titleNote": "同じ校舎・チーム番号の中間報告です。最終提出資料とは作品名が異なります。",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-osaka-01/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告（当時の作品名：Or0(オアゼロ)）",
-        "pdf": "assets/2026/interim/2026-osaka-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-osaka-01/slide-001.png",
-          "assets/2026/interim/2026-osaka-01/slide-002.png",
-          "assets/2026/interim/2026-osaka-01/slide-003.png",
-          "assets/2026/interim/2026-osaka-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-osaka-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-osaka-01/slide-001.png",
-          "assets/2026/planning/2026-osaka-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-osaka-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-osaka-01/slide-001.png",
-          "assets/2026/final/2026-osaka-01/slide-002.png",
-          "assets/2026/final/2026-osaka-01/slide-003.png",
-          "assets/2026/final/2026-osaka-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-osaka-02",
-    "year": 2026,
-    "campus": "大阪校",
-    "title": "0LOOP",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1Jsv9bbQ2avfKZTUj0aIDUXvg7be8u8X6/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-unity-player-build",
-    "video": "assets/2026/media/2026-osaka-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-osaka-02/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-osaka-02/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-osaka-02/proposal/slide-001.png",
-          "assets/2026/submissions/2026-osaka-02/proposal/slide-002.png",
-          "assets/2026/submissions/2026-osaka-02/proposal/slide-003.png",
-          "assets/2026/submissions/2026-osaka-02/proposal/slide-004.png"
-        ]
-      },
-      {
-        "kind": "proposal",
-        "label": "作品紹介シート",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-osaka-02/onepage/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-osaka-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-osaka-02/slide-001.png",
-          "assets/2026/interim/2026-osaka-02/slide-002.png",
-          "assets/2026/interim/2026-osaka-02/slide-003.png",
-          "assets/2026/interim/2026-osaka-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-osaka-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-osaka-02/slide-001.png",
-          "assets/2026/planning/2026-osaka-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-osaka-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-osaka-02/slide-001.png",
-          "assets/2026/final/2026-osaka-02/slide-002.png",
-          "assets/2026/final/2026-osaka-02/slide-003.png",
-          "assets/2026/final/2026-osaka-02/slide-004.png",
-          "assets/2026/final/2026-osaka-02/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-kobe-01",
-    "year": 2026,
-    "campus": "神戸三宮校",
-    "title": "0カロリートレーナー",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/12HlLeAffljywl7oozkO3WBpCCaudb8W3/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-kobe-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-kobe-01/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-kobe-01/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-kobe-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-kobe-01/slide-001.png",
-          "assets/2026/interim/2026-kobe-01/slide-002.png",
-          "assets/2026/interim/2026-kobe-01/slide-003.png",
-          "assets/2026/interim/2026-kobe-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-kobe-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-kobe-01/slide-001.png",
-          "assets/2026/planning/2026-kobe-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-kobe-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-kobe-01/slide-001.png",
-          "assets/2026/final/2026-kobe-01/slide-002.png",
-          "assets/2026/final/2026-kobe-01/slide-003.png",
-          "assets/2026/final/2026-kobe-01/slide-004.png",
-          "assets/2026/final/2026-kobe-01/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-hiroshima-01",
-    "year": 2026,
-    "campus": "広島校",
-    "title": "ゼ０・クリーン！",
-    "genre": null,
-    "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
-    "thumbnail": "assets/2026/interim/2026-hiroshima-01/slide-001.png",
-    "submissionStatus": "成果物未確認",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-hiroshima-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-hiroshima-01/slide-001.png",
-          "assets/2026/interim/2026-hiroshima-01/slide-002.png",
-          "assets/2026/interim/2026-hiroshima-01/slide-003.png",
-          "assets/2026/interim/2026-hiroshima-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-hiroshima-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-hiroshima-01/slide-001.png",
-          "assets/2026/planning/2026-hiroshima-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-hiroshima-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-hiroshima-01/slide-001.png",
-          "assets/2026/final/2026-hiroshima-01/slide-002.png",
-          "assets/2026/final/2026-hiroshima-01/slide-003.png",
-          "assets/2026/final/2026-hiroshima-01/slide-004.png",
-          "assets/2026/final/2026-hiroshima-01/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-fukuoka-01",
-    "year": 2026,
-    "campus": "福岡校",
-    "title": "ZERO GRAVITY RACE",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1oLgrevoHIjseBjM-WGFrEz30nGTathz3/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-fukuoka-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-fukuoka-01/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-fukuoka-01/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-001.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-002.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-003.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-004.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-005.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-006.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-007.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-008.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-009.png",
-          "assets/2026/submissions/2026-fukuoka-01/proposal/slide-010.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-fukuoka-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-fukuoka-01/slide-001.png",
-          "assets/2026/interim/2026-fukuoka-01/slide-002.png",
-          "assets/2026/interim/2026-fukuoka-01/slide-003.png",
-          "assets/2026/interim/2026-fukuoka-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-fukuoka-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-fukuoka-01/slide-001.png",
-          "assets/2026/planning/2026-fukuoka-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-fukuoka-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-fukuoka-01/slide-001.png",
-          "assets/2026/final/2026-fukuoka-01/slide-002.png",
-          "assets/2026/final/2026-fukuoka-01/slide-003.png",
-          "assets/2026/final/2026-fukuoka-01/slide-004.png",
-          "assets/2026/final/2026-fukuoka-01/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-kagoshima-01",
-    "year": 2026,
-    "campus": "鹿児島校",
-    "title": "モグってそろえて！",
-    "genre": null,
-    "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
-    "thumbnail": "assets/2026/interim/2026-kagoshima-01/slide-001.png",
-    "submissionStatus": "成果物未確認",
-    "documents": [
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-kagoshima-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-kagoshima-01/slide-001.png",
-          "assets/2026/interim/2026-kagoshima-01/slide-002.png",
-          "assets/2026/interim/2026-kagoshima-01/slide-003.png",
-          "assets/2026/interim/2026-kagoshima-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-kagoshima-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-kagoshima-01/slide-001.png",
-          "assets/2026/planning/2026-kagoshima-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-kagoshima-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-kagoshima-01/slide-001.png",
-          "assets/2026/final/2026-kagoshima-01/slide-002.png",
-          "assets/2026/final/2026-kagoshima-01/slide-003.png",
-          "assets/2026/final/2026-kagoshima-01/slide-004.png",
-          "assets/2026/final/2026-kagoshima-01/slide-005.png",
-          "assets/2026/final/2026-kagoshima-01/slide-006.png",
-          "assets/2026/final/2026-kagoshima-01/slide-007.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-naha-01",
-    "year": 2026,
-    "campus": "那覇校",
-    "title": "ExistenceZer0",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1me0d9ag56J3XjLgjatsclIRA9_uCNZww/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-naha-01.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-naha-01/thumbnail/image.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書（50%版）",
-        "pdf": "assets/2026/submissions/2026-naha-01/proposal-50.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-001.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-002.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-003.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-004.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-005.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-006.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-007.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-008.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-009.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-010.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-011.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-012.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-013.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-014.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-015.png",
-          "assets/2026/submissions/2026-naha-01/proposal-50/slide-016.png"
-        ]
-      },
-      {
-        "kind": "proposal",
-        "label": "企画書（60%版）",
-        "pdf": "assets/2026/submissions/2026-naha-01/proposal-60.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-001.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-002.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-003.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-004.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-005.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-006.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-007.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-008.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-009.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-010.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-011.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-012.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-013.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-014.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-015.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-016.png",
-          "assets/2026/submissions/2026-naha-01/proposal-60/slide-017.png"
-        ]
-      },
-      {
-        "kind": "proposal",
-        "label": "作品紹介シート",
-        "pdf": null,
-        "slides": [
-          "assets/2026/submissions/2026-naha-01/onepage/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-naha-01.pdf",
-        "slides": [
-          "assets/2026/interim/2026-naha-01/slide-001.png",
-          "assets/2026/interim/2026-naha-01/slide-002.png",
-          "assets/2026/interim/2026-naha-01/slide-003.png",
-          "assets/2026/interim/2026-naha-01/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-naha-01.pdf",
-        "slides": [
-          "assets/2026/planning/2026-naha-01/slide-001.png",
-          "assets/2026/planning/2026-naha-01/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-naha-01.pdf",
-        "slides": [
-          "assets/2026/final/2026-naha-01/slide-001.png",
-          "assets/2026/final/2026-naha-01/slide-002.png",
-          "assets/2026/final/2026-naha-01/slide-003.png",
-          "assets/2026/final/2026-naha-01/slide-004.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-naha-02",
-    "year": 2026,
-    "campus": "那覇校",
-    "title": "0戦車",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/drive/folders/1uVji7DXkEiLs16bhTbDTZqf6HOjUR3zU",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "verified-complete-game-only-folder",
-    "video": "assets/2026/media/2026-naha-02.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "Unity画面全体を含む録画です。",
-    "thumbnail": "assets/2026/submissions/2026-naha-02/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-naha-02/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-naha-02/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-naha-02.pdf",
-        "slides": [
-          "assets/2026/interim/2026-naha-02/slide-001.png",
-          "assets/2026/interim/2026-naha-02/slide-002.png",
-          "assets/2026/interim/2026-naha-02/slide-003.png",
-          "assets/2026/interim/2026-naha-02/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-naha-02.pdf",
-        "slides": [
-          "assets/2026/planning/2026-naha-02/slide-001.png",
-          "assets/2026/planning/2026-naha-02/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-naha-02.pdf",
-        "slides": [
-          "assets/2026/final/2026-naha-02/slide-001.png",
-          "assets/2026/final/2026-naha-02/slide-002.png",
-          "assets/2026/final/2026-naha-02/slide-003.png",
-          "assets/2026/final/2026-naha-02/slide-004.png",
-          "assets/2026/final/2026-naha-02/slide-005.png"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-naha-03",
-    "year": 2026,
-    "campus": "那覇校",
-    "title": "絶対零度を操れ！",
-    "genre": null,
-    "concept": null,
-    "download": "https://drive.google.com/file/d/1FTsecUQ3J8ZEWn8-5hoVeYuT1ucOGIai/view?usp=drivesdk",
-    "downloadLabel": "配布ページ（Google Drive）",
-    "downloadAccess": "login_unknown",
-    "downloadStatus": "declared-build-content-uninspected",
-    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": "assets/2026/media/2026-naha-03.mp4",
-    "videoLabel": "プレイ動画",
-    "videoNote": "",
-    "thumbnail": "assets/2026/submissions/2026-naha-03/proposal/slide-001.png",
-    "documents": [
-      {
-        "kind": "proposal",
-        "label": "企画書",
-        "pdf": "assets/2026/submissions/2026-naha-03/proposal.pdf",
-        "slides": [
-          "assets/2026/submissions/2026-naha-03/proposal/slide-001.png"
-        ]
-      },
-      {
-        "kind": "interim",
-        "label": "中間報告",
-        "pdf": "assets/2026/interim/2026-naha-03.pdf",
-        "slides": [
-          "assets/2026/interim/2026-naha-03/slide-001.png",
-          "assets/2026/interim/2026-naha-03/slide-002.png",
-          "assets/2026/interim/2026-naha-03/slide-003.png",
-          "assets/2026/interim/2026-naha-03/slide-004.png"
-        ]
-      },
-      {
-        "kind": "planning",
-        "label": "企画発表",
-        "pdf": "assets/2026/planning/2026-naha-03.pdf",
-        "slides": [
-          "assets/2026/planning/2026-naha-03/slide-001.png",
-          "assets/2026/planning/2026-naha-03/slide-002.png"
-        ]
-      },
-      {
-        "kind": "final",
-        "label": "最終発表",
-        "pdf": "assets/2026/final/2026-naha-03.pdf",
-        "slides": [
-          "assets/2026/final/2026-naha-03/slide-001.png",
-          "assets/2026/final/2026-naha-03/slide-002.png",
-          "assets/2026/final/2026-naha-03/slide-003.png",
-          "assets/2026/final/2026-naha-03/slide-004.png",
-          "assets/2026/final/2026-naha-03/slide-005.png"
         ]
       }
     ]
