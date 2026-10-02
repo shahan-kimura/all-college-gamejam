@@ -241,10 +241,10 @@
 
     const actions = node("div", "detail-actions");
     if (work.download) {
-      const label = /unityroom\.com/i.test(work.download) ? "ブラウザでプレイ ↗" : "ゲームの公開ページ ↗";
+      const label = /unityroom\.com/i.test(work.download) ? "ブラウザでプレイ ↗" : "ゲームをダウンロード ↗";
       actions.append(actionLink(label, work.download));
     } else {
-      actions.append(unavailable("公開リンク未確認", "ゲームの公開リンクは現在確認できていません。"));
+      actions.append(unavailable(work.year === 2026 ? "成果物未確認" : "公開リンク未確認", "ゲームの配布リンクは現在確認できていません。"));
     }
     if (work.video) {
       const button = node("button", "action-link secondary", "映像を再生 ↓");
@@ -260,6 +260,11 @@
       actions.append(unavailable("映像資料なし", "公開されたプレイ映像はありません。"));
     }
     copy.append(actions);
+    if (work.downloadNote) copy.append(node("p", "availability-note", work.downloadNote));
+    if (work.download && work.downloadAccess === "login_unknown") {
+      copy.append(node("p", "availability-note", "Google Driveへのログインが必要な場合があります。"));
+    }
+    if (work.videoNote) copy.append(node("p", "availability-note", `${work.videoLabel || "プレイ動画"}：${work.videoNote}`));
 
     const video = node("video", "detail-video");
     video.controls = true;
