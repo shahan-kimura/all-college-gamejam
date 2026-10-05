@@ -160,6 +160,55 @@ window.GAMEJAM_CATALOG = [
         ]
       },
       {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/submissions/2026-omiya-01/proposal.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-omiya-01/proposal/slide-001.png",
+          "assets/2026/submissions/2026-omiya-01/proposal/slide-002.png",
+          "assets/2026/submissions/2026-omiya-01/proposal/slide-003.png",
+          "assets/2026/submissions/2026-omiya-01/proposal/slide-004.png",
+          "assets/2026/submissions/2026-omiya-01/proposal/slide-005.png"
+        ]
+      },
+      {
+        "kind": "proposal",
+        "label": "仕様書",
+        "pdf": "assets/2026/submissions/2026-omiya-01/specification.pdf",
+        "slides": [
+          "assets/2026/submissions/2026-omiya-01/specification/slide-001.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-002.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-003.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-004.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-005.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-006.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-007.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-008.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-009.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-010.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-011.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-012.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-013.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-014.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-015.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-016.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-017.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-018.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-019.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-020.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-021.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-022.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-023.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-024.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-025.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-026.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-027.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-028.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-029.png",
+          "assets/2026/submissions/2026-omiya-01/specification/slide-030.png"
+        ]
+      },
+      {
         "kind": "planning",
         "label": "企画発表",
         "pdf": "assets/2026/planning/2026-omiya-01.pdf",

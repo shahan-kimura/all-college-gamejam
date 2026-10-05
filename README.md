@@ -8,7 +8,7 @@ The original 2025 showcase remains available at [all-college-gamejam-2025](https
 
 ## 2026 catalog
 
-The archive reuses the original 2025 showcase design and contains 69 works: 40 from 2025 and 29 from 2026, with combined year/campus filters across 14 campuses (13 represented in 2026). Every 2026 work has planning, interim, and final presentation materials: 78 planning pages, 127 interim pages, and 162 final pages. There are also 25 proposal documents across 22 works (17 PDFs containing 98 pages, plus 8 image-only sheets). Published copies mask personal identifiers; original Google files and sharing permissions were not changed.
+The archive reuses the original 2025 showcase design and contains 69 works: 40 from 2025 and 29 from 2026, with combined year/campus filters across 14 campuses (13 represented in 2026). Every 2026 work has planning, interim, and final presentation materials: 78 planning pages, 127 interim pages, and 162 final pages. There are also 27 proposal/specification documents across 23 works (19 PDFs containing 133 pages, plus 8 image-only sheets), including Omiya team 1's five-page proposal and 30-page specification. All 20 visible specification tabs and their diagrams are included, with actual content fitted to one or two pages per tab. Published copies mask personal identifiers; original Google files and sharing permissions were not changed.
 
 There are 27 game/play links for 2026, including the four submissions linked through spreadsheet URL chips. Submitted games and archives were not modified or executed. Two works have no submitted distribution artifact. Drive links may require sign-in.
 
