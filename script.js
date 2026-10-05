@@ -328,10 +328,17 @@ const GCKPortfolio = (() => {
     Object.entries(fields).forEach(([id, value]) => { const element = document.getElementById(id); if (element) element.textContent = value || ''; });
     document.title = `${data.campus || ''} — ${data.title} | ALL COLLEGE GAME JAM ${data.year}`;
     const downloadBtn = document.getElementById('downloadBtn');
+    const isUnityroomUrl = (value) => {
+      try {
+        const host = new URL(value, location.href).hostname.toLowerCase();
+        return host === 'unityroom.com' || host.endsWith('.unityroom.com');
+      } catch { return false; }
+    };
     if (downloadBtn) {
       if (data.download) {
         downloadBtn.href = data.download; downloadBtn.target = '_blank'; downloadBtn.rel = 'noopener'; downloadBtn.classList.remove('is-unavailable');
-        downloadBtn.removeAttribute('aria-disabled'); downloadBtn.removeAttribute('tabindex'); downloadBtn.removeAttribute('title'); downloadBtn.textContent = 'DOWNLOAD GAME IN DRIVE';
+        downloadBtn.removeAttribute('aria-disabled'); downloadBtn.removeAttribute('tabindex'); downloadBtn.removeAttribute('title');
+        downloadBtn.textContent = isUnityroomUrl(data.download) ? 'PLAY ON UNITYROOM' : 'DOWNLOAD GAME IN DRIVE';
       } else {
         downloadBtn.removeAttribute('href'); downloadBtn.removeAttribute('target'); downloadBtn.removeAttribute('rel'); downloadBtn.classList.add('is-unavailable');
         downloadBtn.setAttribute('aria-disabled', 'true'); downloadBtn.setAttribute('tabindex', '-1'); downloadBtn.setAttribute('title', 'Game build unavailable'); downloadBtn.textContent = 'GAME BUILD UNAVAILABLE';

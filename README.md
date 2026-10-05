@@ -12,9 +12,9 @@ The archive reuses the original 2025 showcase design and contains 69 works: 40 f
 
 There are 27 game/play links for 2026, including the four submissions linked through spreadsheet URL chips. Submitted games and archives were not modified or executed. Two works have no submitted distribution artifact. Drive links may require sign-in.
 
-The 2026 pages include 24 videos with original audio preserved, including the Akihabara team 4 final play video. Previously cropped frames have been restored. Video compression is retained where required for GitHub Pages hosting limits. Five works have no submitted video source.
+The 2026 pages include 26 videos with original audio preserved, including the Akihabara team 4 final play video and the newly submitted Akihabara team 3 and Omiya team 1 videos. The latter two are byte-identical original MP4s hosted in this repository's media-2026 GitHub Release to stay within the Pages size limit. Previously cropped frames have been restored. Video compression is retained where required for GitHub Pages hosting limits. Three works have no submitted video source.
 
-The public `data/catalog.js` file contains the reviewed catalog used by the static pages. Public project details should use only reviewed, sanitized information and public assets under `assets/2026/`. Private source files, original personal Slides or Docs links, and working materials belong outside the published site.
+The public `data/catalog.js` file contains the reviewed catalog used by the static pages. Public project details should use only reviewed, sanitized information and public assets under `assets/2026/` or reviewed video assets in this repository's `media-2026` GitHub Release. Private source files, original personal Slides or Docs links, and working materials belong outside the published site.
 
 ## GitHub Pages
 

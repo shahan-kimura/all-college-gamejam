@@ -138,7 +138,9 @@ window.GAMEJAM_CATALOG = [
     "downloadLabel": "プレイ／配布",
     "downloadAccess": "verified_public",
     "downloadStatus": "verified-live-play-page",
-    "video": null,
+    "video": "https://github.com/shahan-kimura/all-college-gamejam/releases/download/media-2026/2026-omiya-01-2026-10-05.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
     "thumbnail": "assets/2026/thumbnails/2026-omiya-01.jpg",
     "documents": [
       {
@@ -377,7 +379,9 @@ window.GAMEJAM_CATALOG = [
     "downloadAccess": "login_unknown",
     "downloadStatus": "declared-build-content-uninspected",
     "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
-    "video": null,
+    "video": "https://github.com/shahan-kimura/all-college-gamejam/releases/download/media-2026/2026-akihabara-03-2026-10-05.mp4",
+    "videoLabel": "プレイ動画",
+    "videoNote": "",
     "thumbnail": "assets/2026/thumbnails/2026-akihabara-03.jpg",
     "documents": [
       {
