@@ -18,6 +18,9 @@ const GCKPortfolio = (() => {
 
   // === 40 ENTRIES DATA ===
   const CATALOG = Array.isArray(window.GAMEJAM_CATALOG) ? window.GAMEJAM_CATALOG : [];
+  const FEEDBACK_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSdvFSWsOa9LMZ7C3A7w76padC1VeY8TvyiWGLR7wcK-yPB8pg/viewform?usp=pp_url';
+  const FEEDBACK_ENTRY_ID = '1439778106';
+  const FEEDBACK_LABELS = window.GAMEJAM_FEEDBACK_LABELS || {};
   const TEAM_DATA = Object.fromEntries(CATALOG.map((work, index) => [work.id, {
     ...work,
     num: String(index + 1).padStart(2, '0'),
@@ -326,6 +329,14 @@ const GCKPortfolio = (() => {
     currentSlide = 1;
     const fields = { teamName: data.title, workTitle: data.genre, teamConcept: data.concept, campusTag: data.campus, teamNumber: data.num, fuiCampus: data.campus, fuiTeam: data.title, docModalTitle: `${data.campus} — ${data.title} / DOCUMENTS` };
     Object.entries(fields).forEach(([id, value]) => { const element = document.getElementById(id); if (element) element.textContent = value || ''; });
+    const feedbackLink = document.getElementById('feedbackBtn');
+    const feedbackLabel = FEEDBACK_LABELS[data.id];
+    if (feedbackLink && feedbackLabel) {
+      const feedbackUrl = new URL(FEEDBACK_FORM_URL);
+      feedbackUrl.searchParams.set(`entry.${FEEDBACK_ENTRY_ID}`, feedbackLabel);
+      feedbackLink.href = feedbackUrl.toString();
+      feedbackLink.hidden = false;
+    }
     document.title = `${data.campus || ''} — ${data.title} | ALL COLLEGE GAME JAM ${data.year}`;
     const downloadBtn = document.getElementById('downloadBtn');
     const isUnityroomUrl = (value) => {

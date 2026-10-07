@@ -491,6 +491,7 @@ body::before {
   letter-spacing: 0.05em;
   display: inline-flex; align-items: center; justify-content: center; gap: 6px;
 }
+.action-btn[hidden] { display: none; }
 .action-btn::before {
   content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 0;
   background: var(--color-primary); transition: height 0.25s ease; z-index: 0;

@@ -18,4 +18,6 @@ The public `data/catalog.js` file contains the reviewed catalog used by the stat
 
 ## GitHub Pages
 
+Each project page has a feedback link to a shared Google Form, with its work preselected. Responses are collected in the form's linked private Google Sheet. `data/feedback-labels.js` maps catalog IDs to the exact Google Forms choice labels; when adding or renaming choices, keep this map and the form in sync. The form URL and work-question entry ID are configured in `script.js`.
+
 The workflow in `.github/workflows/pages.yml` publishes the repository root to GitHub Pages when changes land on `main`, or when run manually. All pages and catalog data are static; a local preview can be served from this folder with any basic HTTP server.
