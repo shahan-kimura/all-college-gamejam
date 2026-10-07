@@ -1462,11 +1462,13 @@ window.GAMEJAM_CATALOG = [
     "title": "ゼ０・クリーン！",
     "genre": null,
     "concept": null,
-    "download": null,
-    "downloadLabel": null,
-    "downloadAccess": null,
-    "downloadStatus": "no-package-found",
-    "video": null,
+    "download": "https://drive.google.com/file/d/1rkhjDdd0t86Xekg3Dp2Bs_KGK4qz3e-Z/view?usp=drivesdk",
+    "downloadLabel": "配布ページ（Google Drive）",
+    "downloadAccess": "login_unknown",
+    "downloadStatus": "declared-build-content-uninspected",
+    "downloadNote": "提出されたゲーム配布ファイルです。動作確認は行っていません。",
+    "video": "https://github.com/shahan-kimura/all-college-gamejam/releases/download/media-2026/2026-hiroshima-01.mp4",
+    "videoLabel": "プレイ動画",
     "thumbnail": "assets/2026/thumbnails/2026-hiroshima-01.jpg",
     "submissionStatus": "成果物未確認",
     "documents": [
@@ -1501,6 +1503,18 @@ window.GAMEJAM_CATALOG = [
           "assets/2026/final/2026-hiroshima-01/slide-004.png",
           "assets/2026/final/2026-hiroshima-01/slide-005.png"
         ]
+      },
+      {
+        "kind": "proposal",
+        "label": "企画書",
+        "pdf": "assets/2026/documents/2026-hiroshima-01-proposal.pdf",
+        "slides": []
+      },
+      {
+        "kind": "proposal",
+        "label": "仕様書",
+        "pdf": "assets/2026/documents/2026-hiroshima-01-specification.pdf",
+        "slides": []
       }
     ]
   },
